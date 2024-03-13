@@ -1,0 +1,948 @@
+[
+    {
+        "question": "Which microorganism is responsible for the COVID-19 pandemic?",
+        "choices": {
+            "A": "Influenza virus",
+            "B": "Rhinovirus",
+            "C": "SARS-CoV-2",
+            "D": "HIV",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What type of microorganism is SARS-CoV-2?",
+        "choices": {
+            "A": "Bacteria",
+            "B": "Virus",
+            "C": "Fungus",
+            "D": "Protozoa",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What is the primary site of SARS-CoV-2 replication in the human body?",
+        "choices": {
+            "A": "Liver",
+            "B": "Blood",
+            "C": "Respiratory tract",
+            "D": "Kidney",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What type of test is primarily used to detect an active SARS-CoV-2 infection?",
+        "choices": {
+            "A": "Antigen test",
+            "B": "PCR test",
+            "C": "Antibody test",
+            "D": "Blood culture",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Which part of SARS-CoV-2 is primarily targeted for most vaccine development?",
+        "choices": {
+            "A": "Nucleocapsid",
+            "B": "Spike protein",
+            "C": "Membrane protein",
+            "D": "Envelope protein",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Which organism is used as a model for studying SARS-CoV-2?",
+        "choices": {
+            "A": "E. coli",
+            "B": "Mice",
+            "C": "Fruit flies",
+            "D": "Monkeys",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a symptom of COVID-19?",
+        "choices": {
+            "A": "High fever",
+            "B": "Diarrhea",
+            "C": "Hair loss",
+            "D": "Shortness of breath",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What family of viruses does SARS-CoV-2 belong to?",
+        "choices": {
+            "A": "Flaviviridae",
+            "B": "Paramyxoviridae",
+            "C": "Coronaviridae",
+            "D": "Caliciviridae",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which microorganism was responsible for the 2003 SARS outbreak?",
+        "choices": {
+            "A": "MERS-CoV",
+            "B": "SARS-CoV",
+            "C": "H1N1",
+            "D": "Ebola virus",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "How is SARS-CoV-2 primarily transmitted between humans?",
+        "choices": {
+            "A": "Airborne droplets",
+            "B": "Blood transfusion",
+            "C": "Mosquito bites",
+            "D": "Eating contaminated food",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Which of the following organisms were initially suspected to be intermediate hosts for SARS-CoV-2?",
+        "choices": {
+            "A": "Bats",
+            "B": "Pigs",
+            "C": "Pangolins",
+            "D": "Chickens",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What structure does SARS-CoV-2 use to enter human cells?",
+        "choices": {
+            "A": "Hemagglutinin",
+            "B": "ACE2 receptor",
+            "C": "Neuraminidase",
+            "D": "CD4 receptor",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Which of the following drugs was not extensively studied for treating COVID-19?",
+        "choices": {
+            "A": "Remdesivir",
+            "B": "Hydroxychloroquine",
+            "C": "Penicillin",
+            "D": "Dexamethasone",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which of the following is a potential long-term effect of a SARS-CoV-2 infection?",
+        "choices": {
+            "A": "Diabetes",
+            "B": "Long COVID",
+            "C": "Parkinson's disease",
+            "D": "Osteoporosis",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "The Delta variant of SARS-CoV-2 was first identified in which country?",
+        "choices": {
+            "A": "Brazil",
+            "B": "UK",
+            "C": "South Africa",
+            "D": "India",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Why are mutations in SARS-CoV-2 of concern?",
+        "choices": {
+            "A": "They make the virus less contagious",
+            "B": "They can potentially change virus transmissibility or vaccine efficacy",
+            "C": "They cause the virus to die out faster",
+            "D": "They have no effect on the pandemic",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Which of the following is not a primary route of transmission for SARS-CoV-2?",
+        "choices": {
+            "A": "Fomite transmission",
+            "B": "Fecal-oral route",
+            "C": "Respiratory droplets",
+            "D": "Direct contact",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What does \"zoonotic\" mean in the context of diseases like COVID-19?",
+        "choices": {
+            "A": "Spread between humans",
+            "B": "Originating from animals and transmitted to humans",
+            "C": "Caused by zoo animals",
+            "D": "Spread through water",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Which cellular machinery does SARS-CoV-2 use to replicate?",
+        "choices": {
+            "A": "Ribosomes of the host",
+            "B": "Its own ribosomes",
+            "C": "Lysosomes of the host",
+            "D": "Mitochondria of the host",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What role does the spike protein play in the SARS-CoV-2 lifecycle?",
+        "choices": {
+            "A": "Replication",
+            "B": "Protein synthesis",
+            "C": "Cell entry",
+            "D": "Assembly",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which organization declared COVID-19 a global pandemic?",
+        "choices": {
+            "A": "WHO",
+            "B": "CDC",
+            "C": "UNICEF",
+            "D": "GAVI",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What does the \"19\" in COVID-19 stand for?",
+        "choices": {
+            "A": "It's the 19th strain of the virus",
+            "B": "It refers to the year 2019",
+            "C": "It's named after the 19 symptoms",
+            "D": "It's the 19th pandemic",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Which of the following best describes the genetic material of SARS-CoV-2?",
+        "choices": {
+            "A": "Single-stranded RNA",
+            "B": "Double-stranded RNA",
+            "C": "Single-stranded DNA",
+            "D": "Double-stranded DNA",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Which of the following structures of SARS-CoV-2 facilitates its attachment to host cells?",
+        "choices": {
+            "A": "Endoplasmic reticulum",
+            "B": "Spike (S) protein",
+            "C": "Hemagglutinin",
+            "D": "Viral RNA",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "When the diet contains a high amount of unsaturated fatty acids, which vitamin needs to increase?",
+        "choices": {
+            "A": "Vitamin A",
+            "B": "Vitamin D",
+            "C": "Vitamin E",
+            "D": "Vitamin B2",
+            "E": "Vitamin C"
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "When the protein intake increases in the diet, which vitamin needs to increase?\n",
+        "choices": {
+            "A": "Thiamin",
+            "B": "Riboflavin",
+            "C": "Ascorbic acid",
+            "D": "Pantothenic acid",
+            "E": "Pyridoxine"
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "In the relationship between nutrients, the satisfaction of calcium needs depends on:\n",
+        "choices": {
+            "A": "Absolute value of calcium in the diet",
+            "B": "Absolute value of phosphorus in the diet",
+            "C": "Calcium/phosphorus ratio",
+            "D": "Calcium/magnesium ratio",
+            "E": "Protein content in the diet"
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What is the primary requirement of a balanced diet?",
+        "choices": {
+            "A": "Providing sufficient energy according to body needs",
+            "B": "Providing sufficient essential nutrients",
+            "C": "Essential nutrients in appropriate proportions",
+            "D": "Balance between protein/fat/carbohydrates",
+            "E": "Balance between energy-yielding and non-energy-yielding nutrients"
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Among the following roles of proteins, which role is the most important?",
+        "choices": {
+            "A": "Providing sufficient energy according to body needs",
+            "B": "Providing sufficient essential nutrients",
+            "C": "Essential nutrients in appropriate proportions",
+            "D": "Balance between protein/fat/carbohydrates",
+            "E": "Balance between energy-yielding and non-energy-yielding nutrients"
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a structural component of protein?",
+        "choices": {
+            "A": "Enzymes",
+            "B": "Antibodies",
+            "C": "Blood",
+            "D": "Cell nucleus",
+            "E": "Reproductive hormones3"
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "When completely burned, 1 gram of protein in the body provides (Kcal)",
+        "choices": {
+            "A": "3",
+            "B": "3.5",
+            "C": "4",
+            "D": "4.5",
+            "E": "5.04"
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which trio of amino acids is considered the most important in human nutrition?",
+        "choices": {
+            "A": "Leucine, Isoleucine, Lysine",
+            "B": "Lysine, Tryptophan, Phenylalanine",
+            "C": "Tryptophan, Phenylalanine, Valine",
+            "D": "Lysine, Tryptophan,",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "How many essential amino acids do children require in their diet?",
+        "choices": {
+            "A": "6",
+            "B": "7",
+            "C": "8",
+            "D": "9",
+            "E": "107"
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "How many essential amino acids do adults require in their diet?",
+        "choices": {
+            "A": "6",
+            "B": "7",
+            "C": "8",
+            "D": "9",
+            "E": "106"
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Among the following foods, which type has the highest protein content?",
+        "choices": {
+            "A": "Grains",
+            "B": "Pork",
+            "C": "Fish",
+            "D": "Soybeans",
+            "E": "Peanuts"
+        },
+        "correct_answer": [
+            "E"
+        ]
+    },
+    {
+        "question": "Which role among the following roles of Lipids is the most important in human nutrition?\n\n",
+        "choices": {
+            "A": "Participating in cell structure",
+            "B": "Providing energy",
+            "C": "Supplying fat-soluble vitamins",
+            "D": "Adding delicious flavors to meals",
+            "E": "Serving as protective and cushioning tissue for organs in the body"
+        },
+        "correct_answer": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "question": "Which substance among the following is an important factor in regulating cholesterol transport?",
+        "choices": {
+            "A": "Cephalin",
+            "B": "Lecithin",
+            "C": "Serotonin",
+            "D": "Glycerin",
+            "E": "All four of the above answers are incorrect"
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "How many Kcals does 1 gram of lipid provide when fully burned in the body?",
+        "choices": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "8",
+            "E": "9"
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "\nA chemical reaction that produces water and salts\n",
+        "choices": {
+            "A": "Neutralization",
+            "B": "Aerobic activity",
+            "C": "Anaerobic activity",
+            "D": "Concentration",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "On what factors does the nutritional value of fats depend?",
+        "choices": {
+            "A": "Content of vitamins A, D, E... and phosphatides",
+            "B": "Content of essential unsaturated fatty acids and phosphatides",
+            "C": "Content of vitamins A, D, E...; saturated fatty acids and phosphatides",
+            "D": "Content of vitamins A, D, E...; essential unsaturated fatty acids and phosphatides",
+            "E": "Content of phosphatides, saturated fatty acids, and good sensory properties."
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Which of the following foods has the highest fat content?",
+        "choices": {
+            "A": "Pork",
+            "B": "Soybeans",
+            "C": "Peanuts",
+            "D": "Sesame seeds",
+            "E": "Duck and chicken eggs"
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "What criteria determine an appropriate diet?",
+        "choices": {
+            "A": "Provides sufficient energy according to body needs and sufficient essential nutrients",
+            "B": "Provides sufficient essential nutrients in appropriate proportions",
+            "C": "Essential nutrients are in appropriate proportions",
+            "D": "Provides sufficient energy and essential nutrients in appropriate proportions",
+            "E": "Provides sufficient energy, vitamins, and minerals"
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "The daily energy expenditure of the body is used for which of the following activities?\n\n",
+        "choices": {
+            "A": "Maintaining the functions of the respiratory and circulatory systems; Receiving fooD",
+            "B": "Maintaining body temperature; Receiving fooD",
+            "C": "Basic metabolism; Brain and limb activities",
+            "D": "Maintaining body temperature; Receiving food; Brain and limb activities",
+            "E": "Basic metabolism; Receiving food; Brain and limb activities"
+        },
+        "correct_answer": [
+            "E"
+        ]
+    },
+    {
+        "question": "After consuming a mixed meal containing Protein, Lipid, and Carbohydrates, what percentage of the total energy intake is recommended for Carbohydrates?\n",
+        "choices": {
+            "A": "5 - 10%",
+            "B": "10 - 15%",
+            "C": "15 - 20%",
+            "D": "20 - 25%",
+            "E": "25 - 30%"
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "The main principle of proper nutrition for individuals engaged in mental and sedentary work is:\n",
+        "choices": {
+            "A": "Energy intake from diet is always higher than energy expenditurE",
+            "B": "Maintaining energy intake equal to energy expenditurE",
+            "C": "Energy intake from diet is always lower than energy expenditurE",
+            "D": "Increasing physical activity after meals",
+            "E": "Increasing energy intake combined with physical activity"
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Principles of supplying nutrients for individuals engaged in mental work:\n",
+        "choices": {
+            "A": "Limit carbohydrates in the diet",
+            "B": "Limit fat in the diet",
+            "C": "Limit carbohydrates and fat in the diet",
+            "D": "Increase carbohydrates in the diet",
+            "E": "Increase fat in the diet"
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Principles of supplying nutrients for individuals engaged in mental work:\n",
+        "choices": {
+            "A": "Sufficient protein, especially animal protein",
+            "B": "Increase fat in the diet",
+            "C": "Increase carbohydrates in the diet",
+            "D": "Limit fiber",
+            "E": "Increase salt"
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Which of the following works with calcium to build strong bones?\n",
+        "choices": {
+            "A": "Vitamin D",
+            "B": "Vitamin C",
+            "C": "Phosphorus",
+            "D": "Iron",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Which of the following is the cause of soil pollution?",
+        "choices": {
+            "A": "Ozone",
+            "B": "Aerosol",
+            "C": "Acid rain",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What is the water vapor?",
+        "choices": {
+            "A": "It is the gaseous phase of water",
+            "B": "It is a rain droplet",
+            "C": "Water vapor is the cloud droplet",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Which of the following is the cause of Melanornia (skin cancer)?",
+        "choices": {
+            "A": "Acid rain",
+            "B": "Allergens",
+            "C": "Ozone depletion",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "The yellowness of the Taj Mahal is an effect of -",
+        "choices": {
+            "A": "Acid rain",
+            "B": "Allergens",
+            "C": "Ozone depletion",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What is Waste Water Engineering?",
+        "choices": {
+            "A": "Use of engineering approaches to enhance the cleanliness of human populations",
+            "B": "Removing and disposing of human waste",
+            "C": "Providing safe drinking water",
+            "D": "All of the mentioned",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "How is Chemical Oxygen Demand (COD. calculated?",
+        "choices": {
+            "A": "Waste water is oxidised chemically using strontium in acid solutions",
+            "B": "Waste water is oxidised chemically using bromine in acid solutions",
+            "C": "Waste water is oxidised chemically using dichromate in acid solutions",
+            "D": "Waste water is oxidised chemically using sodium in acid solutions",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "The pH value of sewage is determined with the help of",
+        "choices": {
+            "A": "Imhoff Cone",
+            "B": "Turbid meter",
+            "C": "Potentiometer",
+            "D": "None of these",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Traditional environmental issues include which of the following? Please select all that apply.",
+        "choices": {
+            "A": "Natural resource conservation",
+            "B": "Climate change",
+            "C": "Pollution",
+            "D": "Exploitation of maritime resources",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "question": "What is the tragedy of the commons?",
+        "choices": {
+            "A": "It results from an inherent tension between collective and individual responsibility",
+            "B": "It can always be resolved through privatization and nationalization of the commons",
+            "C": "It is independent of the carrying capacity of the common",
+            "D": "All of the options given are correct",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What are realist approaches to environmental politics?",
+        "choices": {
+            "A": "Realist theories emphasize the role of institutions in regulating the environment",
+            "B": "Realist theories focus on questions of state power and interest",
+            "C": "Realist theories emphasize the role played by epistemic communities of scientists",
+            "D": "Realist theories focus on the dissemination of environmental norms",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What does capacity building involve?",
+        "choices": {
+            "A": "Arrangements for the transfer of funds, technology, and expertise",
+            "B": "Environmental projects in developed countries",
+            "C": "It is disseminated through epistemic communities",
+            "D": "Prior informed consent",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "question": "What is the influence of scientific knowledge?",
+        "choices": {
+            "A": "It is disseminated through epistemic communities",
+            "B": "It has played a key role in the creation of framework conventions and control protocols",
+            "C": "It has particularly influenced the discourse of climate change",
+            "D": "Environmental projects in developed countries",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "question": "Which of the following statements about the Intergovernmental Panel on Climate Change are true?",
+        "choices": {
+            "A": "Was set up in 1988 under the auspices of WMO and UNEP",
+            "B": "Focuses on climate science, impacts, and economic and social dimensions of climate change",
+            "C": "Has concluded that warming of the climate system is unequivocal",
+            "D": "Environment is not responsible for life",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "question": "Supplemental means of aeration are often employed with an equalization basin to provide better mixing.",
+        "choices": {
+            "A": "True",
+            "B": "False",
+            "C": "",
+            "D": "",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "In rotating biological contractors, what percent of corrugated plastic discs are submerged?",
+        "choices": {
+            "A": "20",
+            "B": "50",
+            "C": "80",
+            "D": "40",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Screening and comminution are preliminary treatment processes.",
+        "choices": {
+            "A": "True",
+            "B": "False",
+            "C": "",
+            "D": "",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Partial sewers carry a part of stormwater to sanitary sewers.",
+        "choices": {
+            "A": "True",
+            "B": "False",
+            "C": "",
+            "D": "",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "When only one set of sewers are used to carry both sanitary sewage and storm water, it is called as __________ system.",
+        "choices": {
+            "A": "Partial",
+            "B": "Direct",
+            "C": "Combined",
+            "D": "Separate",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "In which kind of cities are combined systems used?",
+        "choices": {
+            "A": "Less Population",
+            "B": "High population",
+            "C": "High residences",
+            "D": "High storm",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "The EIARC is prohibited from providing guidance to the Proponent and other government agencies in integrating critical EIA findings and recommendations in the project plans and other government requirements.",
+        "choices": {
+            "A": "TRUE",
+            "B": "False",
+            "C": "Not stated",
+            "D": "Varies",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "The Case Handler is the EMB's representative in providing guidance and clarification on EIA policy and procedures and may undertake an internal review of the EIA Report.",
+        "choices": {
+            "A": "TRUE",
+            "B": "False",
+            "C": "Not stated",
+            "D": "Varies",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Which of the following can be considered to be the primary source of pathogens in the water bodies?",
+        "choices": {
+            "A": "Domestic Sewage",
+            "B": "Industrial wastage",
+            "C": "Petroleum",
+            "D": "All of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What causes permanent hardness of water?",
+        "choices": {
+            "A": "Sodium sulphate",
+            "B": "Gypsum",
+            "C": "Magnesium Sulphate",
+            "D": "Manganese",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which of the following is considered a water pollutant?",
+        "choices": {
+            "A": "Organic waste",
+            "B": "Sediments",
+            "C": "Heat",
+            "D": "",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "B",
+            "C"
+        ]
+    }
+]

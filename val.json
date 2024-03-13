@@ -1,0 +1,939 @@
+[
+    {
+        "question": "Which of the following zones have considerable rooted vegetation? ",
+        "choices": {
+            "A": "Littoral zone",
+            "B": "Limnetic zone",
+            "C": "Profundal zone",
+            "D": "Benthic zone",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "In regions of the estuary that are nutritionally poor, it is more likely to find which of the following organisms? ",
+        "choices": {
+            "A": "Coliforms",
+            "B": "Appendaged bacteria",
+            "C": "Viruses",
+            "D": "Fecal streptococci",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Which of the following genus of bacteria is not found in fresh waters? ",
+        "choices": {
+            "A": "Pseudomonas",
+            "B": "Flavobacterium",
+            "C": "Aeromonas",
+            "D": "Vibrio",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Rapidly expanding urbanization makes it difficult to generalize upon typical microbial flora of streams.",
+        "choices": {
+            "A": "True",
+            "B": "False",
+            "C": "",
+            "D": "",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "The vaporised water is called ",
+        "choices": {
+            "A": "Ground water",
+            "B": "Atmospheric water",
+            "C": "Surface water",
+            "D": "Impounded water",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "The study of marine microbes is called ",
+        "choices": {
+            "A": "Marine microbiology",
+            "B": "Marinology",
+            "C": "Marine bacteriology",
+            "D": "None of these",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Which of the following organisms are major fecal contaminants in potable water?",
+        "choices": {
+            "A": "Escherichia coli",
+            "B": "Streptococcus faecalis",
+            "C": "Both a and b",
+            "D": "Escherichia coli only",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "IMVIC test includes",
+        "choices": {
+            "A": "Indole test and methyl red test",
+            "B": "Voges Proskauer test",
+            "C": "Citrate test",
+            "D": "All of these",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Disinfection include",
+        "choices": {
+            "A": "Chlorination",
+            "B": "UV radiation",
+            "C": "Ozonation",
+            "D": "All of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Purification strategies in municipal water supplies involves ",
+        "choices": {
+            "A": "Sedimentation",
+            "B": "Filtration",
+            "C": "Disinfection",
+            "D": "All of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Which term describes the moisture present in the atmosphere which falls as snow, hail, rain, etc?",
+        "choices": {
+            "A": "Atmospheric water",
+            "B": "Surface water",
+            "C": "Groundwater",
+            "D": "Subterranean water",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "The surface waters are susceptible to contamination with microorganisms from",
+        "choices": {
+            "A": "The air",
+            "B": "The surface runoff",
+            "C": "Precipitation",
+            "D": "Atmospheric water and the surface runoff",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Which of the following is subterranean water? ",
+        "choices": {
+            "A": "Atmospheric water",
+            "B": "Surface water",
+            "C": "Groundwater",
+            "D": "Rainwater",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Up to what depth are wells generally classified as shallow?",
+        "choices": {
+            "A": "1 ft",
+            "B": "100 ft",
+            "C": "50 ft",
+            "D": "1000 ft",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Thermus aquaticus, a common bacterial inhabitant generally prevails in temperatures of ____________",
+        "choices": {
+            "A": "0\u00ba C",
+            "B": "30\u00ba-40\u00baC",
+            "C": "70\u00ba-72\u00baC",
+            "D": "80\u00ba-85\u00baC",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Hydrostatic pressure increases the boiling point of water but does not change the solubility of nutrients.",
+        "choices": {
+            "A": "True",
+            "B": "False",
+            "C": "",
+            "D": "",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Primary producers are found growing in which of the following layers of water?",
+        "choices": {
+            "A": "Upper layer",
+            "B": "Middle layer",
+            "C": "Intermediate layer",
+            "D": "Bottom layer",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "The degree of salinity in freshwater is nearly zero",
+        "choices": {
+            "A": "True",
+            "B": "False",
+            "C": "",
+            "D": "",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "The microorganisms from lakes and rivers can grow at a salt concentration of _________",
+        "choices": {
+            "A": "2.5 to 4 percent",
+            "B": "5 percent",
+            "C": "Below 1 percent",
+            "D": "Above 1 percent",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which of the following compounds are required for the growth of saprophytic bacteria and fungi?",
+        "choices": {
+            "A": "Organic compounds",
+            "B": "Nitrates",
+            "C": "Phosphates",
+            "D": "Mercury",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "The biological activity of an aquatic ecosystem is dependent upon which of the following factors?",
+        "choices": {
+            "A": "Number of primary producers",
+            "B": "Amount of chemical energy produced",
+            "C": "Rate of primary production",
+            "D": "Number of deaths of organisms",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which among the following are referred to as the \u201cpasture of the sea\u201d? ",
+        "choices": {
+            "A": "Fishes",
+            "B": "Algae",
+            "C": "Nematodes",
+            "D": "Phytoplankton",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Which of the following product is not obtained from dissimilation of organic matter under aerobic conditions? ",
+        "choices": {
+            "A": "Ammonium",
+            "B": "Sulphate",
+            "C": "Methane",
+            "D": "Phosphate",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which of the following organism have siliceous skeletons? ",
+        "choices": {
+            "A": "Foraminifera",
+            "B": "Coccolithophores",
+            "C": "Radiolaria",
+            "D": "Cyanobacteria",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What is the primary purpose of using chemical food additives in the food industry?",
+        "choices": {
+            "A": "Enhancing nutritional value",
+            "B": "Improving taste and aroma",
+            "C": "Extending shelf life",
+            "D": "Reducing production costs",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which class of chemical food additives is commonly used to prevent microbial growth and spoilage?",
+        "choices": {
+            "A": "Emulsifiers",
+            "B": "Antioxidants",
+            "C": "Preservatives",
+            "D": "Colorants",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What role do emulsifiers play in food products?",
+        "choices": {
+            "A": "Enhancing color and appearance",
+            "B": "Improving texture and mouthfeel",
+            "C": "Increasing shelf stability",
+            "D": "Adding natural sweetness",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Which chemical food additive is used to maintain the texture and consistency of processed foods?",
+        "choices": {
+            "A": "Flavor enhancers",
+            "B": "Stabilizers",
+            "C": "Sweeteners",
+            "D": "Acidulants",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What is the primary purpose of using antioxidants in food products?",
+        "choices": {
+            "A": "Adding color and vibrancy",
+            "B": "Improving texture and mouthfeel",
+            "C": "Preventing rancidity and oxidation",
+            "D": "Enhancing flavor profile",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which class of chemical food additives is responsible for giving food products their desired color?",
+        "choices": {
+            "A": "Acidulants",
+            "B": "Colorants",
+            "C": "Sweeteners",
+            "D": "Emulsifiers",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What role do flavor enhancers serve in processed foods?",
+        "choices": {
+            "A": "Extending shelf life",
+            "B": "Providing color stability",
+            "C": "Intensifying taste perception",
+            "D": "Enhancing structural integrity",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which chemical food additive is often used to adjust the pH level of food products?",
+        "choices": {
+            "A": "Sweeteners",
+            "B": "Acidulants",
+            "C": "Stabilizers",
+            "D": "Emulsifiers",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What is the function of stabilizers in food products?",
+        "choices": {
+            "A": "Enhancing color and vibrancy",
+            "B": "Preventing microbial growth",
+            "C": "Maintaining a consistent texture",
+            "D": "Adding natural sweetness",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which class of chemical food additives is used to add sweetness to food without adding calories?",
+        "choices": {
+            "A": "Flavor enhancers",
+            "B": "Stabilizers",
+            "C": "Sweeteners",
+            "D": "Acidulants",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What is the purpose of using bulking agents as chemical food additives?",
+        "choices": {
+            "A": "Improving texture",
+            "B": "Enhancing flavor",
+            "C": "Reducing acidity",
+            "D": "Increasing volume without adding calories",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Which chemical food additive class is responsible for enhancing the texture and mouthfeel of food products?",
+        "choices": {
+            "A": "Emulsifiers",
+            "B": "Stabilizers",
+            "C": "Colorants",
+            "D": "Acidulants",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": " What is the main role of humectants in food products?",
+        "choices": {
+            "A": "Preserving freshness",
+            "B": "Enhancing color",
+            "C": "Increasing sweetness",
+            "D": "Providing structure",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Which class of chemical food additives is used to enhance the overall appearance and visual appeal of food products?",
+        "choices": {
+            "A": "Acidulants",
+            "B": "Colorants",
+            "C": "Sweeteners",
+            "D": "Stabilizers",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What do leavening agents primarily contribute to food products?",
+        "choices": {
+            "A": "Preservation of freshness",
+            "B": "Enhancement of color",
+            "C": "Texture and volume",
+            "D": "Sweetness and flavor",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which chemical food additive is commonly used to enhance the flavor profile of processed foods?",
+        "choices": {
+            "A": "Colorants",
+            "B": "Sweeteners",
+            "C": "Flavor enhancers",
+            "D": "Stabilizers",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What is the function of antimicrobial agents in food products?",
+        "choices": {
+            "A": "Enhancing color and vibrancy",
+            "B": "Improving texture and mouthfeel",
+            "C": "Preventing microbial growth",
+            "D": "Increasing shelf stability",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which class of chemical food additives is responsible for adding a sour or tangy taste to food products?",
+        "choices": {
+            "A": "Emulsifiers",
+            "B": "Flavor enhancers",
+            "C": "Acidulants",
+            "D": "Stabilizers",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What role do thickeners play in food products?",
+        "choices": {
+            "A": "Enhancing color stability",
+            "B": "Providing natural sweetness",
+            "C": "Increasing viscosity and texture",
+            "D": "Reducing acidity",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which chemical food additive class is used to improve the spreadability of various food products?",
+        "choices": {
+            "A": "Emulsifiers",
+            "B": "Colorants",
+            "C": "Sweeteners",
+            "D": "Stabilizers",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What is the primary purpose of using anti-caking agents in food products?",
+        "choices": {
+            "A": "Enhancing color and vibrancy",
+            "B": "Preventing clumping and caking",
+            "C": "Increasing sweetness",
+            "D": "Improving shelf stability",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What role do gelling agents serve in food products?",
+        "choices": {
+            "A": "Enhancing color and vibrancy",
+            "B": "Increasing acidity",
+            "C": "Adding natural sweetness",
+            "D": "Creating a gel-like texture",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Which chemical food additive is commonly used to enhance the color stability of processed foods?",
+        "choices": {
+            "A": "Flavor enhancers",
+            "B": "Stabilizers",
+            "C": "Colorants",
+            "D": "Acidulants",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which class of chemical food additives is responsible for enhancing the elasticity of certain food items?",
+        "choices": {
+            "A": "Emulsifiers",
+            "B": "Stabilizers",
+            "C": "Acidulants",
+            "D": "Texture modifiers",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "what is the PH value of normal rain?",
+        "choices": {
+            "A": "1",
+            "B": "5.6",
+            "C": "8",
+            "D": "7",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "For the survival of fish in a river stream, the minimum dissolved oxygen is prescribed.",
+        "choices": {
+            "A": "3 PPm",
+            "B": "5 PPm",
+            "C": "4 PPm",
+            "D": "10 PPm",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Making new containers from crushed glass helps to\u201a\u00c4\u00b6..",
+        "choices": {
+            "A": "Save materials",
+            "B": "Save fuel",
+            "C": "Both of these",
+            "D": "None of these",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Problem of solid waste disposal can be reduced through\u201a\u00c4\u00b6\u201a\u00c4\u00b6.",
+        "choices": {
+            "A": "Recycling",
+            "B": "Lesser pollution",
+            "C": "More timber",
+            "D": "Population control",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "The most serious environmental effect posed by hazardous wastes is \u201a\u00c4\u00b6\u201a\u00c4\u00b6\u201a\u00c4\u00b6.",
+        "choices": {
+            "A": "Air pollution",
+            "B": "Contamination of groundwater",
+            "C": "Increased use of land for landfills",
+            "D": "None of these",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Which was the first city to an established system of waste removal?",
+        "choices": {
+            "A": "Lahore",
+            "B": "Athens",
+            "C": "Paris",
+            "D": "London",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "The term ISWM refers to:",
+        "choices": {
+            "A": "International Solid Waste Management",
+            "B": "Integrated Solid Waste Management",
+            "C": "Integrated Solid Waste Machine",
+            "D": "International Solid Waste Mechanism",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "How does organic material in the buried solid waste will decompose?",
+        "choices": {
+            "A": "By the action of oxidation",
+            "B": "By the action of microorganisms",
+            "C": "By the flow of water",
+            "D": "By the soil particles",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Which planet is also known as blue planet?",
+        "choices": {
+            "A": "Mercury",
+            "B": "Venus",
+            "C": "Earth",
+            "D": "Mars",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What is the cause of the soil pollution?",
+        "choices": {
+            "A": "Acid rain",
+            "B": "Ozone",
+            "C": "Aerosol",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Which of the following is the cause of Melanornia (skin cancer)?",
+        "choices": {
+            "A": "Acid rain",
+            "B": "Allergens",
+            "C": "Ozone depletion",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Assessment of risk posed by natural hazard to the project is part of EIA.",
+        "choices": {
+            "A": "TRUE",
+            "B": "False",
+            "C": "Not stated",
+            "D": "Varies",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "The term ecosystem was enunciated by",
+        "choices": {
+            "A": "A.G. Transley",
+            "B": "E.P. Odum",
+            "C": "G. Mendal",
+            "D": "C.C. Park",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Which of the following gas is present in the air in maximum amount?",
+        "choices": {
+            "A": "Nitrogen",
+            "B": "Oxygen",
+            "C": "Carbon dioxide",
+            "D": "Methane",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Which of the following energy is stored in the earth?",
+        "choices": {
+            "A": "Mechanical energy",
+            "B": "Solar energy",
+            "C": "Chemical energy",
+            "D": "Geothermal energy",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Hepatitis A is what kind of disease?",
+        "choices": {
+            "A": "Food contamination",
+            "B": "Water-borne disease",
+            "C": "Air-borne disease",
+            "D": "Soil-borne disease",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "question": "On which day the world environment day is celebrated?",
+        "choices": {
+            "A": "5th April",
+            "B": "15th May",
+            "C": "5th June",
+            "D": "25th April",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which of the following is the hottest planet on ecosystem?",
+        "choices": {
+            "A": "Venus",
+            "B": "Mercury",
+            "C": "Nan",
+            "D": "Uranus",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "If in any water body, there is high BOD value then it is generally?",
+        "choices": {
+            "A": "Very clean",
+            "B": "Very polluted",
+            "C": "Highly productive",
+            "D": "Highly unproductive",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Acid rain is caused by?",
+        "choices": {
+            "A": "SO2 and O2",
+            "B": "SO2 and NO2",
+            "C": "NO2 and O2",
+            "D": "CO2 and O2",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "The number of atmospheric layers present above earth is?",
+        "choices": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Which of the following is the main reason for producing the atmospheric greenhouse effect?",
+        "choices": {
+            "A": "Absorption and re-emission of ultraviolet radiations by the atmosphere",
+            "B": "Absorption and re-emission of infrared radiations by the atmosphere",
+            "C": "Absorption and re-emission of visible light by the atmosphere",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "The salinization can be defined as -",
+        "choices": {
+            "A": "Accumulation of salts in the body",
+            "B": "Accumulation of salts in water",
+            "C": "Accumulation of salts in animals",
+            "D": "Accumulation of salts in the soil",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "The main reason for blueness of the sky is -",
+        "choices": {
+            "A": "Due to the presence of water vapor",
+            "B": "Due to the absorption of blue light due to the air",
+            "C": "Due to the scattering of sunlight by air molecules",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    }
+]

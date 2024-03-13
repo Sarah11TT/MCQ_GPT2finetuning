@@ -1,0 +1,5685 @@
+[
+    {
+        "question": "Which of the following methods would be used to measure the concentration of bacterial contamination in processed peanut butter?",
+        "choices": {
+            "A": "Turbidity measurement",
+            "B": "Total plate count",
+            "C": "Dry weight measurement",
+            "D": "Direct counting of bacteria on a calibrated slide under the microscope",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "In which phase would you expect to observe the most endospores in a Bacillus cell culture?",
+        "choices": {
+            "A": "Death phase",
+            "B": "Lag phase",
+            "C": "Log phase",
+            "D": "Log, lag, and death phases would all have roughly the same number of endospores",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "During which phase would penicillin, an antibiotic that inhibits cell-wall synthesis, be most effective?",
+        "choices": {
+            "A": "Death phase",
+            "B": "Lag phase",
+            "C": "Log phase",
+            "D": "Stationary phase",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which of the following is the best definition of generation time in a bacterium?",
+        "choices": {
+            "A": "The length of time it takes to reach the log phase",
+            "B": "The length of time it takes for a population of cells to double",
+            "C": "The time it takes to reach stationary phase",
+            "D": "The length of time of the exponential phase",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What is the function of the Z ring in binary fission?",
+        "choices": {
+            "A": "It controls the replication of DNA",
+            "B": "It forms a contractile ring at the septum",
+            "C": "It separates the newly synthesized DNA molecules",
+            "D": "It mediates the addition of new peptidoglycan subunits",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "If a culture starts with 50 cells, how many cells will be present after five generations with no cell death?",
+        "choices": {
+            "A": "200",
+            "B": "400",
+            "C": "1600",
+            "D": "3200",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Filamentous cyanobacteria often divide by which of the following?",
+        "choices": {
+            "A": "Budding",
+            "B": "Mitosis",
+            "C": "Fragmentation",
+            "D": "Formation of endospores",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which is a reason for antimicrobial resistance being higher in a biofilm than in free-floating bacterial cells?",
+        "choices": {
+            "A": "The EPS allows faster diffusion of chemicals in the biofilm",
+            "B": "Cells are more metabolically active at the base of a biofilm",
+            "C": "Cells are metabolically inactive at the base of a biofilm",
+            "D": "The structure of a biofilm favors the survival of antibiotic resistant cells",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Quorum sensing is used by bacterial cells to determine which of the following?",
+        "choices": {
+            "A": "The size of the population",
+            "B": "The availability of nutrients",
+            "C": "The speed of water flow",
+            "D": "The density of the population",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Which of the following statements about autoinducers is incorrect?",
+        "choices": {
+            "A": "They bind directly to DNA to activate transcription",
+            "B": "They can activate the cell that secreted them",
+            "C": "N-acylated homoserine lactones are autoinducers in gram-negative cells",
+            "D": "Autoinducers may stimulate the production of virulence factors",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "An inoculated thioglycolate medium culture tube shows dense growth at the surface and turbidity throughout the rest of the tubE. What is your conclusion?",
+        "choices": {
+            "A": "The organisms die in the presence of oxygen",
+            "B": "The organisms are facultative anaerobes",
+            "C": "The organisms should be grown in an anaerobic chamber",
+            "D": "The organisms are obligate aerobes",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "An inoculated thioglycolate medium culture tube is clear throughout the tube except for dense growth at the bottom of the tubE. What is your conclusion?",
+        "choices": {
+            "A": "The organisms are obligate anaerobes",
+            "B": "The organisms are facultative anaerobes",
+            "C": "The organisms are aerotolerant",
+            "D": "The organisms are obligate aerobes",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Pseudomonas aeruginosa is a common pathogen that infects the airways of patients with cystic fibrosis. It does not grow in the absence of oxygen. The bacterium is probably which of the following?",
+        "choices": {
+            "A": "An aerotolerant anaerobe",
+            "B": "An obligate aerobe",
+            "C": "An obligate anaerobe",
+            "D": "A facultative anaerobe",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Streptococcus mutans is a major cause of cavities. It resides in the gum pockets, does not have catalase activity, and can be grown outside of an anaerobic chamber. The bacterium is probably which of the following?",
+        "choices": {
+            "A": "A facultative anaerobe",
+            "B": "An obligate aerobe",
+            "C": "An obligate anaerobe",
+            "D": "An aerotolerant anaerobe",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Bacteria that grow in mine drainage at pH 1\u20132 are probably which of the following?",
+        "choices": {
+            "A": "Alkaliphiles",
+            "B": "Acidophiles",
+            "C": "Neutrophiles",
+            "D": "Obligate anaerobes",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Bacteria isolated from Lake Natron, where the water pH is close to 10, are which of the following?",
+        "choices": {
+            "A": "Alkaliphiles",
+            "B": "Facultative anaerobes",
+            "C": "Neutrophiles",
+            "D": "Obligate anaerobes",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "In which environment are you most likely to encounter an acidophile?",
+        "choices": {
+            "A": "Human blood at pH 7.2",
+            "B": "A hot vent at pH 1.5",
+            "C": "Human intestine at pH 8.5",
+            "D": "Milk at pH 6.5",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "A soup container was forgotten in the refrigerator and shows contamination. The contaminants are probably which of the following?",
+        "choices": {
+            "A": "Thermophiles",
+            "B": "Acidophiles",
+            "C": "Mesophiles",
+            "D": "Psychrotrophs",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Bacteria isolated from a hot tub at 39 \u00b0C are probably which of the following?",
+        "choices": {
+            "A": "Thermophiles",
+            "B": "Psychrotrophs",
+            "C": "Mesophiles",
+            "D": "Hyperthermophiles",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "In which environment are you most likely to encounter a hyperthermophile?",
+        "choices": {
+            "A": "Hot tub",
+            "B": "Warm ocean water in Florida",
+            "C": "Hydrothermal vent at the bottom of the ocean",
+            "D": "Human body",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which of the following is the reason jams and dried meats often do not require refrigeration to prevent spoilage?",
+        "choices": {
+            "A": "Low pH",
+            "B": "Toxic alkaline chemicals",
+            "C": "Naturally occurring antibiotics",
+            "D": "Low water activity",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Bacteria living in salt marshes are most likely which of the following?",
+        "choices": {
+            "A": "Acidophiles",
+            "B": "Barophiles",
+            "C": "Halotolerant",
+            "D": "Thermophiles",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "The term prokaryotes refers to which of the following?",
+        "choices": {
+            "A": "Very small organisms",
+            "B": "Unicellular organisms that have no nucleus",
+            "C": "Multicellular organisms",
+            "D": "Cells that resemble animal cells more than plant cells",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "The term microbiota refers to which of the following?",
+        "choices": {
+            "A": "All microorganisms of the same species",
+            "B": "All of the microorganisms involved in a symbiotic relationship",
+            "C": "All microorganisms in a certain region of the human body",
+            "D": "All microorganisms in a certain geographic region",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which of the following describes foods packed in plastic for microwaving?",
+        "choices": {
+            "A": "Dehydrated",
+            "B": "Freeze-dried",
+            "C": "Packaged aseptically",
+            "D": "Commercially sterilized",
+            "E": "Autoclaved"
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "In the process of vitamin C manufacture where Acetobacter is essential for one of the steps, which method would be the most straightforward to facilitate the interaction between the substrate and Acetobacter?",
+        "choices": {
+            "A": "Add substrate and Acetobacter to a test tube",
+            "B": "Affix Acetobacter to a surface and run substrate over it",
+            "C": "Add substrate and Acetobacter to a bioreactor",
+            "D": "Find an alternative to this step",
+            "E": "None of the above"
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Which of the following is the spoilage of food caused by Geobacillus Stearothermophilus?",
+        "choices": {
+            "A": "Bacillus coagulans",
+            "B": "Byssochlamys",
+            "C": "Flat sour spoilage",
+            "D": "Lactobacillus",
+            "E": "Thermophilic anaerobic spoilage"
+        },
+        "correct_answer": [
+            "E"
+        ]
+    },
+    {
+        "question": "The spoilage of canned foods caused by Geobacillus stearothermophilus",
+        "choices": {
+            "A": "Bacillus coagulans",
+            "B": "Byssochlamys",
+            "C": "Flat sour spoilage",
+            "D": "Lactobacillus",
+            "E": "Thermophilic anaerobic spoilage"
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "A heat resistant fungus that causes spoilage in acidic foods",
+        "choices": {
+            "A": "Bacillus coagulans",
+            "B": "Byssochlamys",
+            "C": "Flat sour spoilage",
+            "D": "Lactobacillus",
+            "E": "Thermophilic anaerobic spoilage"
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "The term 12D treatment refers to ",
+        "choices": {
+            "A": "Heat treatment sufficient to kill 12 bacteria",
+            "B": "The use of 12 different treatments to preserve food",
+            "C": "A 10^12 reduction in C",
+            "D": "Botulinum endospores",
+            "E": "Any process that destroys thermophilic bacteria"
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which of the following microbes produces a natural pesticide?",
+        "choices": {
+            "A": "Penicillium chrysogenum",
+            "B": "Saccharomyces cerevisiae",
+            "C": "Bacillus thuringiensis",
+            "D": "Lactobacillus bulgaricus",
+            "E": "Thiobacillus ferrooxidans"
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which of the following is utilized by aseptic packaging to sterilize laminated paper or plastic prior to filling with food? ",
+        "choices": {
+            "A": "Hot HCl solution",
+            "B": "Gamma radiation",
+            "C": "Hot hydrogen peroxide solution",
+            "D": "X-ray",
+            "E": "Autoclave"
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which of the following reactions is performed by yeast in winemaking?",
+        "choices": {
+            "A": "Sugar \u279d CO2 + H2O",
+            "B": "Ethanol \u279d acetic acid",
+            "C": "Malic acid \u279d lactic acid",
+            "D": "Carbon dioxide \u279d sucrose",
+            "E": "Sugar \u279d ethanol"
+        },
+        "correct_answer": [
+            "E"
+        ]
+    },
+    {
+        "question": "All of the following are industrial products produced using microbial fermentations EXCEPT",
+        "choices": {
+            "A": "Aspartic acid",
+            "B": "Citric acid",
+            "C": "Glutamic acid",
+            "D": "Riboflavin",
+            "E": "Saccharin"
+        },
+        "correct_answer": [
+            "E"
+        ]
+    },
+    {
+        "question": "How many phyla are represented in the following list of organisms?: Echinococcus, Cyclospora, Aspergillus, Taenia, Toxoplasma, Trichinella.",
+        "choices": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "The definitive host for Plasmodium vivax is ",
+        "choices": {
+            "A": "Human",
+            "B": "Anopheles",
+            "C": "A sporocyte",
+            "D": "A gametocyte",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Arrange the following stages in their sequence of development, starting from the initial form after the egg. 1. Metacercaria 2. Redia 3. Adult 4. Miracidium 5. Cercaria:",
+        "choices": {
+            "A": "5,4,1,2,3",
+            "B": "4,2,5,1,3",
+            "C": "2,5,4,3,1",
+            "D": "3,4,5,1,2",
+            "E": "2,4,5,1,3"
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "If a snail is the first intermediate host of a parasite with these stages, which would be found in the snail?\u00a0\n1. Metacercaria \n2. Redia \n3. Adult \n4. Miracidium \n5. Cercaria ",
+        "choices": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Fleas are the intermediate host for Dipylidium caninum tapeworm, and dogs are the definitive host. Which stage of the parasite could be found in the flea? ",
+        "choices": {
+            "A": "Cysticercus larva",
+            "B": "Proglottids",
+            "C": "Scolex",
+            "D": "Adult",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Which of the following statements about yeasts are true? \n\n1. Yeasts are fungi. \n2. Yeasts can form pseudohyphae. \n3. Yeasts reproduce asexually by budding. \n4. Yeasts are facultatively anaerobic. \n5. All yeasts are pathogenic. \n6. All yeasts are dimorphic. ",
+        "choices": {
+            "A": "1, 2, 3, 4",
+            "B": "3, 4, 5, 6",
+            "C": "2, 3, 4, 5",
+            "D": "1, 3, 5, 6",
+            "E": "2, 3, 4"
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Which of the following events follows cell fusion in an ascomycete? ",
+        "choices": {
+            "A": "Conidiophore formation",
+            "B": "Conidiospore germination",
+            "C": "Ascus opening",
+            "D": "Ascospore formation",
+            "E": "Conidiospore release"
+        },
+        "correct_answer": [
+            "E"
+        ]
+    },
+    {
+        "question": "These are obligate intracellular parasites that lack mitochondria\u00a0",
+        "choices": {
+            "A": "Apicomplexa",
+            "B": "Ciliates",
+            "C": "Dinoflagellates",
+            "D": "Microsporidia",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "These are nonmotile parasites with special organelles for penetrating host tissue\u00a0",
+        "choices": {
+            "A": "Apicomplexa",
+            "B": "Ciliates",
+            "C": "Dinoflagellates",
+            "D": "Microsporidia",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "These photosynthetic organisms can cause paralytic shellfish poisoning.",
+        "choices": {
+            "A": "Apicomplexa",
+            "B": "Ciliates",
+            "C": "Dinoflagellates",
+            "D": "Microsporidia",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "The cell wall is present in: \n1. animals \n2. fungi \n3. algae \n4. protozoa \n5. plants \n6. bacteria  ",
+        "choices": {
+            "A": "All of the above",
+            "B": "1, 3, and 5",
+            "C": "2, 3, and 5",
+            "D": "3 and 4",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "The cell wall is absent in:\n1. animals \n2. fungi \n3. algae \n4. protozoa \n5. plants \n6. bacteria  ",
+        "choices": {
+            "A": "All of the above",
+            "B": "1, 3, and 5",
+            "C": "2 and 6",
+            "D": "1 and 4",
+            "E": "3 and 4"
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": " All eukaryotes have:",
+        "choices": {
+            "A": "Cell walls and cell membranes",
+            "B": "Nucleus and sterols",
+            "C": "Phospholipid bilayer and chitin",
+            "D": "",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": " The sexual spores of fungi include:",
+        "choices": {
+            "A": "Conidiospores, sporangiospores and basidiospores",
+            "B": "Conidiospores and chlamydoconidium",
+            "C": "Zygospores, ascospores and basidiospores",
+            "D": "Fungi only reproduce asexually",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "\u00a0Neisseria\u00a0meningitidis\u00a0(meningococcus)",
+        "choices": {
+            "A": "It is always pathological to humans",
+            "B": "Immunisation is available against all the virulent strains",
+            "C": "It survives well outside the body",
+            "D": "It has a polysaccharide capsule",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Regarding Herpes simplex encephalitis, which of the following statements accurately describes its diagnosis?",
+        "choices": {
+            "A": "This shows a predilection for the occipital lobe",
+            "B": "It typically has a rapid symptom onset",
+            "C": "It is a mild self-limiting disease",
+            "D": "It is diagnosed by CSF PCR",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Regarding immunity, which of the following statements accurately describe events that are associated with the onset of particular diseases following an infection",
+        "choices": {
+            "A": "Immunity in newborns is the result of transplacental transfer of maternal T cells",
+            "B": "Elevated IgM signifies recent infection",
+            "C": "Defects in the complement pathway predispose to infections with Neisseria species",
+            "D": "Splenectomy predisposes to cryptococcal infections",
+            "E": ""
+        },
+        "correct_answer": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "question": "Which of the following diseases are considered notifiable",
+        "choices": {
+            "A": "HIV",
+            "B": "Malaria",
+            "C": "Food poisoning",
+            "D": "Chickenpox",
+            "E": ""
+        },
+        "correct_answer": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "question": "Which of the following Regarding neutrophils is true ? ",
+        "choices": {
+            "A": "Most are found in the circulation",
+            "B": "Adhesion is mediated by opsonin",
+            "C": "A neutrophilia with left shift is due to the appearance of immature forms",
+            "D": "A neutrophilia occurs following exercise",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "question": "Miliary tuberculosis (TB.",
+        "choices": {
+            "A": "This is diagnosed easily by examining sputum for acid-fast bacilli",
+            "B": "It is frequently diagnosed only at post-mortem examination",
+            "C": "It is highly contagious",
+            "D": "Lumbar puncture in meningeal TB usually shows elevated protein and glucose levels",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Toxic shock syndrome",
+        "choices": {
+            "A": "This results from a superantigen toxin",
+            "B": "Over 80% of cases are associated with tampon use",
+            "C": "It typically follows streptococcal infection",
+            "D": "It is usually associated with a petechial rash",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Clostridium spp.",
+        "choices": {
+            "A": "These cause clinical effects by the release of endotoxins",
+            "B": "They are spore-forming, anaerobic, Gram-negative bacilli",
+            "C": "Clostridium perfringens causes gas gangrene and food poisoning",
+            "D": "Symptomatic Clostridium difficile infection occurs only after antibiotic use",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which of the following statements is true about malaria ",
+        "choices": {
+            "A": "Benign malaria is usually caused by Plasmodium ovale",
+            "B": "It is excluded if no parasites are seen on a blood film",
+            "C": "Malaria occurring in pregnancy is associated with a poorer prognosis",
+            "D": "It may present more than 9 months after return from an endemic area",
+            "E": ""
+        },
+        "correct_answer": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "question": "In the UK immunisation schedule",
+        "choices": {
+            "A": "Diphtheria, tetanus and pertussis are given at 2, 3, 4 and 18 months of age",
+            "B": "Pneumococcal vaccination is given at 2, 4 and 13 months",
+            "C": "Chickenpox immunisation is given with the MMR immunisation",
+            "D": "Tetanus and diphtheria vaccines are live attenuated vaccines",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "The following causative organisms and disease pairings are correct",
+        "choices": {
+            "A": "Borrelia burgdorferi \u2013 Weil\u2019s disease",
+            "B": "Corynebacterium sp. \u2013 diphtheria",
+            "C": "Rhabdovirus \u2013 dengue fever",
+            "D": "Rotavirus \u2013 bronchiolitis",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Pelvic in\ufb02ammatory disease (PID.",
+        "choices": {
+            "A": "This usually results from the haematogenous spread of organisms",
+            "B": "Chlamydia is the most frequent causative organism",
+            "C": "When caused by gonorrhoea it may be accompanied by a perihepatitis",
+            "D": "Treatment should be commenced only once the causative organism has been confirmed",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Which of the following statements about bacterial endocarditis is true, especially in the context of intravenous drug users",
+        "choices": {
+            "A": "This is excluded by a negative blood culture",
+            "B": "It is most commonly the result of staphylococcal infection",
+            "C": "In intravenous drug users it is commonly due to Strep. bovis",
+            "D": "It affects the tricuspid and pulmonary valve more often in injecting drug users",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Which of the following pathogens are associated with the development of myocarditis?",
+        "choices": {
+            "A": "HIV",
+            "B": "Borrelia spp",
+            "C": "EBV",
+            "D": "Strep. viridans",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "question": "Viral meningitis",
+        "choices": {
+            "A": "This is usually a mild, self-limiting disease",
+            "B": "It is most commonly caused by HSV-1 infection",
+            "C": "It occurs most commonly in winter",
+            "D": "Examination of the CSF shows a lymphocytosis",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "question": "The virulence of streptococci is increased by the following",
+        "choices": {
+            "A": "Bacterial production of streptokinase",
+            "B": "The presence of cell surface G-proteins",
+            "C": "Being an encapsulated organism",
+            "D": "Bacterial production of Panton\u2013 Valentine leukocidin",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "question": "Which of the following statements about HIV/AIDS are true ?",
+        "choices": {
+            "A": "AIDS is defined in the UK by a CD4 count < 200",
+            "B": "Seroconversion occurs within 4 weeks of infection",
+            "C": "Opportunistic infections occur during seroconversion",
+            "D": "It is a lentivirus",
+            "E": ""
+        },
+        "correct_answer": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "question": "The following are live vaccines",
+        "choices": {
+            "A": "Measles",
+            "B": "Hepatitis B",
+            "C": "BCG",
+            "D": "Influenza",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "question": "Which of the following statements about food poisoning are true?",
+        "choices": {
+            "A": "This is a notifiable disease",
+            "B": "When caused by Staph, aureus, it occurs 12 \u2013 48 hours after ingestion of contaminated food",
+            "C": "That caused by Shigella spp, is associated with acute, watery, bloody diarrhoea",
+            "D": "Salmonella food poisoning is most likely if accompanied by severe abdominal pain",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "question": "Which of the following statements regarding osteomyelitis in children are true?",
+        "choices": {
+            "A": "This results mostly from staphylococcal infection",
+            "B": "When caused by Haemophilus sp., it occurs as a complication of sickle cell disease",
+            "C": "It most commonly arises from overlying trauma",
+            "D": "It most commonly affects the femur",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "question": "B lymphocytes",
+        "choices": {
+            "A": "These are produced in the bone marrow before maturing in thymic tissue",
+            "B": "They are the predominant circulating lymphocytes",
+            "C": "The primary function is antibody production",
+            "D": "They act as antigen-presenting cells",
+            "E": ""
+        },
+        "correct_answer": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "question": "Which of the following virus and method of spread associations are correct?",
+        "choices": {
+            "A": "Adenovirus \u2013 faecal\u2013oral",
+            "B": "Varicella \u2013 airborne",
+            "C": "CMV \u2013 blood borne",
+            "D": "Hepatitis A \u2013 blood borne",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "question": "Defects in the immune response and associated pathogens are as follows",
+        "choices": {
+            "A": "Complement deficiency \u2013 Candida spp",
+            "B": "Complement deficiency \u2013 Neisseria spp",
+            "C": "T-cell deficiency \u2013 CMV",
+            "D": "Neutropenia \u2013 Candida spp",
+            "E": ""
+        },
+        "correct_answer": [
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "question": "Which of the following statements correctly describes the immunity status after recovering from tetanus?",
+        "choices": {
+            "A": "Cl, tetani is a facultative anaerobic bacillus",
+            "B": "The neurotoxin tetanospasmin blocks acetylcholine transmission",
+            "C": "Tetanospasmin reversibly binds to peripheral nerve terminals",
+            "D": "Recovery from tetanus does not confer immunity",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Which organic molecule is the primary source of energy for our cells?",
+        "choices": {
+            "A": "Lipids",
+            "B": "Proteins",
+            "C": "Carbohydrates",
+            "D": "Nucleic Acids",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What are the main roles of carbohydrates in the body?",
+        "choices": {
+            "A": "Providing immediate energy for cells, especially in the brain",
+            "B": "Serving as the main structural component of cell membranes",
+            "C": "Storing energy in the form of glycogen in liver and muscles",
+            "D": "Acting as a catalyst to speed up chemical reactions",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "question": "Which of the following is a water-soluble vitamin?",
+        "choices": {
+            "A": "Vitamin A",
+            "B": "Vitamin K",
+            "C": "Vitamin E",
+            "D": "Vitamin C",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Which of the following are primary components of cell membranes?",
+        "choices": {
+            "A": "Phospholipids with a hydrophilic head and hydrophobic tail structure",
+            "B": "Polysaccharides formed through dehydration synthesis",
+            "C": "Proteins that facilitate transport and communication across the membrane",
+            "D": "Nucleotides that store genetic information",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a type of lipid?",
+        "choices": {
+            "A": "Triglyceride",
+            "B": "Steroid",
+            "C": "Glycogen",
+            "D": "Phospholipid",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "When discussing carbohydrates, which of the following statements are true regarding their types and functions?\n",
+        "choices": {
+            "A": "Monosaccharides are the simplest form of carbohydrates and include glucose, a primary energy source for cells",
+            "B": "Disaccharides are formed when two monosaccharides join together, like sucrose (table sugar) which is composed of glucose and fructose",
+            "C": "Polysaccharides like cellulose can be easily digested by human enzymes to provide energy",
+            "D": "Glycogen, a polysaccharide, is stored in the liver and muscles and is used as a short-term energy reserve",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "question": "Vitamins and minerals are essential micronutrients. Which of the following are true about their roles and characteristics in the human body?",
+        "choices": {
+            "A": "Fat-soluble vitamins include vitamins A, D, E, and K, and they can be stored in the body's fatty tissues",
+            "B": "Minerals like calcium and magnesium are important for bone health and muscle function",
+            "C": "A deficiency in vitamin B12 can lead to anemia and neurological problems",
+            "D": "All of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Which type of fat is typically solid at room temperature?",
+        "choices": {
+            "A": "Saturated fats",
+            "B": "Unsaturated fats",
+            "C": "Trans fats",
+            "D": "Phospholipids",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "When considering lipids in the human diet, which of the following are benefits or characteristics of consuming unsaturated fats?",
+        "choices": {
+            "A": "They tend to decrease inflammation in the body",
+            "B": "Unsaturated fats, particularly in fish, are rich in essential fatty acids like omega-3",
+            "C": "They are typically solid at room temperature and are found in meats and dairy",
+            "D": "Consuming them can help in reducing the risk of cardiovascular diseases",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "question": "Which of the following are characteristics of saturated fats?",
+        "choices": {
+            "A": "They are typically liquid at room temperature",
+            "B": "They have no double bonds between carbon atoms",
+            "C": "They are primarily found in plant-based foods",
+            "D": "They can raise levels of LDL cholesterol in the blood",
+            "E": ""
+        },
+        "correct_answer": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "question": "The molecule responsible for energy transfer within the cell is...",
+        "choices": {
+            "A": "DNA",
+            "B": "RNA",
+            "C": "ATP",
+            "D": "ADP",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What are the functions of proteins in the body?",
+        "choices": {
+            "A": "They serve as a primary energy source during intense physical activity.",
+            "B": "They are involved in the transport of oxygen in the bloodstream.",
+            "C": "They catalyze biochemical reactions as enzymes.",
+            "D": "They store genetic information for cell replication.",
+            "E": ""
+        },
+        "correct_answer": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "question": "Which statements are true about essential amino acids?",
+        "choices": {
+            "A": "They can be synthesized by the human body in sufficient amounts.",
+            "B": "They must be obtained through the diet because the body can't produce them.",
+            "C": "They play a crucial role in building and repairing tissues.",
+            "D": "They can be stored in the body for long periods without degradation.",
+            "E": ""
+        },
+        "correct_answer": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "question": "Which of the following sugars is a disaccharide?",
+        "choices": {
+            "A": "Glucose",
+            "B": "Fructose",
+            "C": "Galactose",
+            "D": "Lactose",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "What are the roles of nucleic acids in cells?",
+        "choices": {
+            "A": "They assist in protein synthesis.",
+            "B": "They store and transmit hereditary information.",
+            "C": "They provide insulation and protection for internal organs.",
+            "D": "They help in digesting dietary fats.",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "question": "What are the primary sources of Omega-3 fatty acids?",
+        "choices": {
+            "A": "Lean meats and poultry.",
+            "B": "Whole grains and legumes.",
+            "C": "Freshwater and saltwater fish.",
+            "D": "Dark green leafy vegetables.",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a monosaccharide?",
+        "choices": {
+            "A": "Ribose",
+            "B": "Glucose",
+            "C": "Fructose",
+            "D": "Maltose",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Which of the following are functions of lipids in the body?",
+        "choices": {
+            "A": "Acting as a source of stored energy.",
+            "B": "Facilitating the synthesis of steroid hormones.",
+            "C": "Assisting in the transport of water-soluble vitamins.",
+            "D": "Speeding up the rate of metabolism.",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "question": "Which of the following is a non-essential amino acid?",
+        "choices": {
+            "A": "Valine",
+            "B": "Tryptophan",
+            "C": "Leucine",
+            "D": "Glutamine",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Cholesterol, a crucial molecule for cell membranes, is a type of...",
+        "choices": {
+            "A": "Protein",
+            "B": "Nucleic acid",
+            "C": "Carbohydrate",
+            "D": "Steroid",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "The bond formed between amino acids is calledA...",
+        "choices": {
+            "A": "Glycosidic bond",
+            "B": "Phosphodiester bond",
+            "C": "Peptide bond",
+            "D": "Hydrogen bond",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which of the following are true statements about the structural and functional roles of proteins?",
+        "choices": {
+            "A": "Collagen, a protein, provides tensile strength to skin, bones, and tendons.",
+            "B": "Hemoglobin, another protein, is crucial for lipid metabolism.",
+            "C": "Enzymes, which are proteins, act as catalysts and are highly specific in their actions, often working on only one type of substrate.",
+            "D": "Proteins play a minimal role in the repair and regeneration of body tissues.",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "question": "Which of the following foods is rich in unsaturated fats?",
+        "choices": {
+            "A": "Butter",
+            "B": "Olive oil",
+            "C": "Beef fat",
+            "D": "Cheese",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Which is the primary structural protein found in skin and connective tissues?",
+        "choices": {
+            "A": "Keratin",
+            "B": "Collagen",
+            "C": "Hemoglobin",
+            "D": "Insulin",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "The safety of which of the following substances must be \ndemonstrated prior to their introduction into food?",
+        "choices": {
+            "A": "Pesticide chemicals",
+            "B": "Substances migrating from food packaging",
+            "C": "Color additives",
+            "D": "All of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Toxicity and dose-response data from animal studies, together with data of which of the following types, \nare used to evaluate the safety of a food substance?\u00a0",
+        "choices": {
+            "A": "Rates of consumption of the food to which the substance is added",
+            "B": "The concentration of the substance in food",
+            "C": "The daily intake of the substance by humans consuming the food",
+            "D": "The total amount of the substance a person will consume over a lifetime",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Doses of substances used in animal toxicity studies are usually \nmany times greater than those experienced by people because",
+        "choices": {
+            "A": "Rates of consumption of the food to which the substance is added",
+            "B": "The concentration of the substance in food\u00a0",
+            "C": "The daily intake of the substance by humans consuming the food\u00a0",
+            "D": "The total amount of the substance a person will consume over a lifetime\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Why are observational epidemiology studies not typically used for risk assessment regarding food contaminants?",
+        "choices": {
+            "A": "Animals are generally much less sensitive than people\u00a0",
+            "B": "Such tests can detect only very large risks because of the fact that only small numbers of animals can be used\u00a0",
+            "C": "It is difficult in such studies to determine whether the observed toxic effects were caused by the substance\u00a0",
+            "D": "It is the only way to ensure results are applicable to people\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "For what purpose is risk assessment applied to data on toxicity and human exposure?",
+        "choices": {
+            "A": "It is never possible to know whether observed effects are caused by the contaminant\u00a0",
+            "B": "Human exposure though food is usually much less than exposures that have been studied\u00a0",
+            "C": "Controlled animal studies provide more reliable information\u00a0",
+            "D": "Reliable dose-response data are difficult to acquire and often unavailable\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "When can a food additive be considered safe?\n",
+        "choices": {
+            "A": "Estimate the likelihood, or probability, of a toxic effect on exposed humans\u00a0",
+            "B": "To support risk management decisions for food substances\u00a0",
+            "C": "To derive Allowable Daily Intakes\u00a0",
+            "D": "All of the above\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Risk management for chemical contaminants\n of food generally relies on:",
+        "choices": {
+            "A": "No evidence of human toxicity has been observed over the period of its use\u00a0",
+            "B": "Estimated Daily Intake (EDI) from its presence in food is less than its ADI\u00a0",
+            "C": "Its toxic effects are observed only at doses 100x the EDI\u00a0",
+            "D": "Its benefits outweigh its risks\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Nutrients may pose health risks:",
+        "choices": {
+            "A": "Banning of the contaminant from food\u00a0",
+            "B": "Allowing levels of contamination based on what manufacturers believe is achievable\u00a0",
+            "C": "Banning any food found to contain detectable amounts of the contaminants\u00a0",
+            "D": "Prohibiting the introduction into commerce food containing contaminants at levels greater than a specified level (a risk-based MRL or tolerance)\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Which statement accurately describes food allergies?\n",
+        "choices": {
+            "A": "When intakes exceed established ULs (Upper Levels)\u00a0",
+            "B": "At any level greater than a recommended dietary intake\u00a0",
+            "C": "Only when intakes are less than those required for nutritional benefits\u00a0",
+            "D": "Under no known conditions of usual intake\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "The two most common causes of foodborne \nillness in the United States and Europe are:\u00a0",
+        "choices": {
+            "A": "Are avoidable if the allergic agents are not allowed to exceed specified limits\u00a0",
+            "B": "Are a form of food intolerance\u00a0",
+            "C": "Usually occur only after an individual has been sensitized by prior exposure\u00a0",
+            "D": "Are uncomfortable but generally of little medical concern\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "The two parts of HACCP include: \n\n",
+        "choices": {
+            "A": "Salmonella and Campylobacter\u00a0",
+            "B": "Listeria and Salmonella\u00a0",
+            "C": "Shigella and Staphlococcus\u00a0",
+            "D": "Coli STECs and non-STEC subtypes\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Safe methods for thawing foods include\n all of the following EXCEPT:",
+        "choices": {
+            "A": "Hazard analysis and critical control points\u00a0",
+            "B": "Health analysis and critical control points\u00a0",
+            "C": "Hazard analysis and critical conformation production\u00a0",
+            "D": "Health analysis and critical conformation production\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "A virus found in shellfish from contaminated water \nand foods that are handled by infected individuals then eaten raw is:",
+        "choices": {
+            "A": "Thawing under cold running water\u00a0",
+            "B": "Thawing in the refrigerator\u00a0",
+            "C": "Thawing in a sink of warm water\u00a0",
+            "D": "Thawing in the microwave\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "One way to prevent food-borne illness\n from consuming raw fish is to:\u00a0",
+        "choices": {
+            "A": "Influenza\u00a0",
+            "B": "Hepatitis A\u00a0",
+            "C": "Hepatitis C\u00a0",
+            "D": "Rhinovirus\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Listeria monocytogenes is a harmful microorganism found in:\u00a0",
+        "choices": {
+            "A": "Carefully examine the fish visually and pick out the parasites\u00a0",
+            "B": "Freeze the fish at -10 deg F for at least 7 days\u00a0",
+            "C": "Chill the fish before serving\u00a0",
+            "D": "Heat the fish, but not so much that is becomes opaque\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "In the fermentation process, microorganisms produce_____________ \nwhich inhibit the growth of harmful microorganisms. ",
+        "choices": {
+            "A": "Undercooked meat\u00a0",
+            "B": "Soft cheeses and unpasteurized milk\u00a0",
+            "C": "Pork\u00a0",
+            "D": "Poultry\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "A person with a food-borne illness\n should contact a physician if: ",
+        "choices": {
+            "A": "Alkali and acid\u00a0",
+            "B": "Acid and alcohol\u00a0",
+            "C": "Alcohol and alkali\u00a0",
+            "D": "Water",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "If a 30-year-old male ingests an unknown substance and begins to vomit, what should you do first?",
+        "choices": {
+            "A": "Blood is present in the stool\u00a0",
+            "B": "Fever is 102 deg F or greater\u00a0",
+            "C": "Symptoms persist for more than 2-3 days\u00a0",
+            "D": "All of the aboves",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Which of the following can function better at lower pH?\u00a0",
+        "choices": {
+            "A": "Collect the vomitus and bring it to the hospital\u00a0",
+            "B": "Apply a bag-valve mask\u00a0",
+            "C": "Analyze the vomitus and try to identify the poison\u00a0",
+            "D": "Suction his oropharynx for no longer than 30 seconds\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Instead of gamma radiation, which type of beams are used to irradiate foods, given that this process does not generate radioactive waste?",
+        "choices": {
+            "A": "Yeasts and molds\u00a0",
+            "B": "Bacteria\u00a0",
+            "C": "Viruses\u00a0",
+            "D": "Protozoa\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "A major fungal genus that produces aflatoxin is:",
+        "choices": {
+            "A": "Microwave\u00a0",
+            "B": "Electron\u00a0",
+            "C": "Magnetic\u00a0",
+            "D": "None of the choices\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "A major organism considered to cause\n food-borne infection is: ",
+        "choices": {
+            "A": "Rhizopus\u00a0",
+            "B": "Aspergillus\u00a0",
+            "C": "Claviceps\u00a0",
+            "D": "Penicillium\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "By which method are food-borne pathogens most commonly identified?\n",
+        "choices": {
+            "A": "Salmonella",
+            "B": "Staphylococcus\u00a0",
+            "C": "Pseudomonas\u00a0",
+            "D": "Bacillus\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Which of the following is true about molecular methods of\n microorganism detection in foods?",
+        "choices": {
+            "A": "PCR\u00a0",
+            "B": "Standard culture techniques\u00a0",
+            "C": "Pulsed-field gel electrophoresis\u00a0",
+            "D": "None of the choices\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Which food analysis techniques fall under the category of Enhanced fluid/solvent extraction? (multiple answers)",
+        "choices": {
+            "A": "They can be used to detect the presence of a single specific pathogen\u00a0",
+            "B": "They can be used to detect viruses that are not easily culturable\u00a0",
+            "C": "They can be used to detect slow growing pathogens\u00a0",
+            "D": "All of the choices are correct\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "question": "What is not the advantages of ILs (ionic liquids) as green extraction solvents? ",
+        "choices": {
+            "A": "Liquid\u2013liquid extraction (LLE)",
+            "B": "Subcritical water extraction (SWE)",
+            "C": "Pressurized liquid extraction (PLE)",
+            "D": "Single short column (SSC",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What is the equation used to calculate the carbohydrate content in food analytical techniques?",
+        "choices": {
+            "A": "Negligible volatility",
+            "B": "Chemical instability\u00a0",
+            "C": "Low flammability",
+            "D": "Thermal stability",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "In the sample preparation step for analyzing Monosaccharides and Oligosaccharides, which method is most commonly used to extract low molecular weight carbohydrates from foods?",
+        "choices": {
+            "A": "%carbohydrates = 100 - %moisture - %protein - %lipid - %mineral",
+            "B": "%carbohydrates = 100 - %moisture - %protein - %lipid - %mineral-%ash-%fiber",
+            "C": "%carbohydrates = 100 - %moisture - %protein - %lipid - %mineral-%ash-%residue-%inulin",
+            "D": "%carbohydrates = 100 - %moisture - %protein - %lipid\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which statement about ion-exchange for sample preparation in Monosaccharides and Oligosaccharides analysis is incorrect?",
+        "choices": {
+            "A": "Boil a defatted sample with ionic liquid",
+            "B": "Mix a defatted sample with keton solution",
+            "C": "Boil a defatted sample with an 80% alcohol solution",
+            "D": "Mix a defatted sample with base solvent\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Which are the commonly used powerful chromatographic methods to analyze monosaccharides and oligosaccharides? (multiple answers)",
+        "choices": {
+            "A": "Non-polar molecules can be removed by passing a solution through a column with a non-polar stationary phase",
+            "B": "Many monosaccharides and oligosaccharides are polar non-charged molecules and can be separated from charged molecules by passing samples through ion-exchange columns",
+            "C": "Many monosaccharides and oligosaccharides are non-polar molecules and can separate from charged molecules by passing samples through ion-exchange columns",
+            "D": "Proteins, amino acids, organic acids, minerals and hydrophobic compounds cannot be separated from the carbohydrates with Ion-exchange method",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "question": "What is the fundamental concept behind separating carbohydrates using the chromatography method?",
+        "choices": {
+            "A": "Gas chromatography (GC)",
+            "B": "High Performance Liquid chromatography (HPLC",
+            "C": "Ion-exchange chromatography",
+            "D": "Super critical fluid chromatography",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which statements are true regarding the titration method for food analysis? (multiple answers)",
+        "choices": {
+            "A": "Differential precipitation characteristics",
+            "B": "Differential evaporation characteristics",
+            "C": "Differential adsorption characteristics",
+            "D": "Differential absorption characteristics",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "question": "Which is an example of a colorimetric method?",
+        "choices": {
+            "A": "The results depend on the precise reaction times, temperatures and reagent concentrations",
+            "B": "It can distinguish between different types of reducing sugar by titration volumE",
+            "C": "It cannot analyse between different types of reducing sugar",
+            "D": "It cannot directly determine the concentration of non-reducing sugars",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Which chemical is used in the Crude Fiber Method?",
+        "choices": {
+            "A": "Aceton-Sodium Hydroxide",
+            "B": "Phenol - Sulfuric Acid",
+            "C": "Ethanol-Hydrochloric acid",
+            "D": "Sodium hydroxide-Sulfuric acid",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "What are the steps in the Kjeldahl method for protein analysis?",
+        "choices": {
+            "A": "HCl and NaOH",
+            "B": "HCl and KOH",
+            "C": "H2SO4 and KOH",
+            "D": "H2SO4 and NaOH",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which chemical is related to the Kjeldahl method?",
+        "choices": {
+            "A": "Ammonium sulfate",
+            "B": "Ammonium carbonate",
+            "C": "Ammonium chloride",
+            "D": "Ammonium nitrate",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Which sentence about UV-visible spectroscopy for protein analysis is incorrect?",
+        "choices": {
+            "A": "Calibration curve of absorbance (or turbidity) versus protein concentration needs to be created",
+            "B": "The absorbance (or turbidity) of the solution being analysed is measured at the same wavelength of calibration curve",
+            "C": "Protein concentration determined from calibration curve",
+            "D": "Peptide bonds, aromatic side-groups, basic group in protein type do not affect absorption or scattering of radiation",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "What is the fundamental concept of the Turbimetric method used to determine protein content?",
+        "choices": {
+            "A": "Evaporation",
+            "B": "Adsorption",
+            "C": "Crystallization",
+            "D": "Precipitation",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Which statements are correct? (multiple answers)",
+        "choices": {
+            "A": "UV-visible: The concentration of proteins can be determined by measuring the absorbance of ultraviolet-visible radiation",
+            "B": "Proteins cannot absorb IR naturally due to characteristic vibrations, suitable chemical solvent, and temperature, pressure conditions need to be set in rapid online analysis",
+            "C": "The protein content is determined by measuring the area under a peak in an NMR chemical shift spectra that corresponds to the protein fraction",
+            "D": "All of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "question": "What are the important properties for fat/lipid analysis? (multiple answers)",
+        "choices": {
+            "A": "Total lipid concentration",
+            "B": "Type of lipids present",
+            "C": "Physicochemical properties of lipids, E.g., crystallization, melting point, smoke point, rheology, density and color",
+            "D": "Structural organization of lipids within a food",
+            "E": ""
+        },
+        "correct_answer": [
+            "ALL"
+        ]
+    },
+    {
+        "question": "Is it true or false that \"(i) solvent extraction, (ii) non-solvent extraction, and (iii) instrumental methods\" are the main conventional methods for lipid analysis?",
+        "choices": {
+            "A": "All are true",
+            "B": "All are false",
+            "C": "Only (i) and (iii) are true",
+            "D": "Only (i) and (ii) are true",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What is the principle behind selecting a suitable solvent for lipid analysis? (multiple answers)",
+        "choices": {
+            "A": "Non-toxic and nonflammable",
+            "B": "Polarity of the lipids compared to the polarity of the solvent",
+            "C": "High boiling point solvent for easy evaporation",
+            "D": "Inexpensive price",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "question": "Which chemical is used in the Supercritical Fluid Extraction method?",
+        "choices": {
+            "A": "NH3",
+            "B": "CO2",
+            "C": "H2O",
+            "D": "O2",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What does \"Cloud Point\" mean?",
+        "choices": {
+            "A": "The temperature at which a liquid begins in a solid",
+            "B": "The temperature at which a liquid begins in a gas",
+            "C": "The temperature at which crystallization begins in a liquid oil",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Are flame or graphite furnace atomizers components of...?",
+        "choices": {
+            "A": "Gas chromatography",
+            "B": "Atomic Absorption Spectrometer",
+            "C": "High-performance liquid chromatography (HPLC)",
+            "D": "Distillation column unit",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What is the commonly used method to analyze vitamin C in food?",
+        "choices": {
+            "A": "Redox titration",
+            "B": "AAS",
+            "C": "Precipitation",
+            "D": "Extraction",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "In the Iodine value method for lipid analysis, what does the iodine value (IV) measure?",
+        "choices": {
+            "A": "Molecular weight of Iodine",
+            "B": "Concentrate of iodine compound",
+            "C": "Average degree of unsaturation of a lipid",
+            "D": "Iodine compound structure",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What does the Saponification Number mean?",
+        "choices": {
+            "A": "A measure of the average molecular weight of the triacylglycerols",
+            "B": "A measure of triacylglycerols C=C double bonds",
+            "C": "A measure of type of triacylglycerols",
+            "D": "A measure of concentration of triacylglycerols",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "EIA is study of probable change in socio economic and characteristics of environment due to proposed action.",
+        "choices": {
+            "A": "Biophysical",
+            "B": "Geological",
+            "C": "Hydrological",
+            "D": "Potential",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "EIA is __ and __ environmental impacts.",
+        "choices": {
+            "A": "Beneficial and adverse",
+            "B": "Social and benefit",
+            "C": "Adverse and economical",
+            "D": "None of above",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "___ is evident that order to identify, assess and predict the environmental impacts.",
+        "choices": {
+            "A": "Environmental attributes",
+            "B": "Environmental impact",
+            "C": "Complex system",
+            "D": "Variable parameter",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "EIA is including mechanisms for monitoring, and evaluation.",
+        "choices": {
+            "A": "Specification",
+            "B": "Auditing",
+            "C": "Reporting",
+            "D": "Concluding",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "EIA is study to delineate between beneficial and detrimental impacts.",
+        "choices": {
+            "A": "Micro",
+            "B": "Action",
+            "C": "Proposed",
+            "D": "Macro",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Which are environmental attributes?",
+        "choices": {
+            "A": "Detailed attributes",
+            "B": "Review level attributes",
+            "C": "Economic attributes",
+            "D": "Ecology attributes",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "question": "The baseline studies in EIA pertain to _____________.",
+        "choices": {
+            "A": "Collection of demographic data only",
+            "B": "Prediction of significant residual environmental impact",
+            "C": "Existing environmental settling of proposed development area",
+            "D": "Selection of best project option available",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "EIA may define formal process used to predict environmental consequences of ___________",
+        "choices": {
+            "A": "Identify project",
+            "B": "Any development projects",
+            "C": "Reduced cost",
+            "D": "Impact of laws",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "EIA is supporting the goals of environmental protection and __________.",
+        "choices": {
+            "A": "Sustainable development",
+            "B": "Economic growth",
+            "C": "Involvement of public",
+            "D": "Proposed activities",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "EIA is provided for of public, government agencies to review proposed activities.",
+        "choices": {
+            "A": "Beneficial",
+            "B": "Mitigation",
+            "C": "Involvement",
+            "D": "Adverse",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "EIA is necessary because _____",
+        "choices": {
+            "A": "Development is bad for the environment",
+            "B": "There is growing interest in sustainability",
+            "C": "Environmental impacts of developments are of public interest",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "The primary reason for Environmental Impact Assessment is to",
+        "choices": {
+            "A": "Mitigate existing environmental impacts of development",
+            "B": "Predict the size of impacts of developments",
+            "C": "Describe proposed developments",
+            "D": "Identify the environmental consequences of development in advance",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "The process of burning municipal solid waste at high temperature is called ____________",
+        "choices": {
+            "A": "Incineration",
+            "B": "Composting",
+            "C": "Land filing",
+            "D": "Shredding",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "In which method of disposal of municipal solid waste, the waste is dumped in the soil?",
+        "choices": {
+            "A": "Incineration",
+            "B": "Composting",
+            "C": "Land filing",
+            "D": "Shredding",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "The density of ash produced in the municipal solid waste is ___________",
+        "choices": {
+            "A": "100 kg/m3",
+            "B": "450 kg/m3",
+            "C": "700 kg/m3",
+            "D": "1000 kg/m3",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": " ______ is a liquid that passes through solid waste and extracts suspended impurities from it.",
+        "choices": {
+            "A": "Leachate",
+            "B": "Sludge",
+            "C": "Distilled water",
+            "D": "Municipal waste",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Which of the following temperature is optimum for incinerators?",
+        "choices": {
+            "A": "900-1100\u221eC",
+            "B": "100-110\u221eC",
+            "C": "90-110\u221eC",
+            "D": "100-11000\u221eC",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Which of the following is not a waste treatment method for biomedical wastes?",
+        "choices": {
+            "A": "Incineration",
+            "B": "Chemical disinfecting",
+            "C": "Autoclaving",
+            "D": "Sieving",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Which of the following can be used to produce marketable compost from dry solid wastes?",
+        "choices": {
+            "A": "Aerobic composting",
+            "B": "Vermicomposting",
+            "C": "Anaerobic digestion",
+            "D": "Anaerobic composting",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Which of the following is correct regarding disposal of waste by land filling?",
+        "choices": {
+            "A": "Economical method",
+            "B": "Preferred in low lying areas",
+            "C": "Foul gases are not produced",
+            "D": "Separation of different types of waste not required",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "The waste produced in cotton mills are ___________",
+        "choices": {
+            "A": "Municipal solid waste",
+            "B": "Non biodegradable waste",
+            "C": "Hazardous waste",
+            "D": "Non hazardous waste",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What plan should we make to the disposal of solid waste?",
+        "choices": {
+            "A": "Integrated waste management plan",
+            "B": "Recycling of waste management plan",
+            "C": "Reducing of waste management plan",
+            "D": "Use of waste management plan",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Which of the following is an important part of the natural release of biogas in the environment?",
+        "choices": {
+            "A": "Biogeochemical cycle",
+            "B": "Environment pollution",
+            "C": "Afforestation",
+            "D": "Deforestration",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Which of the following organism degrade the organic matter thereby, transfer the matter to the environment?",
+        "choices": {
+            "A": "Methanogens",
+            "B": "Manganese",
+            "C": "Carbon dioxide",
+            "D": "Methane",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Which of the following resembles the rich topsoil in context to solid waste composting?",
+        "choices": {
+            "A": "Humus",
+            "B": "Bed rock",
+            "C": "Sub soil",
+            "D": "Weathered rock",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Why mismanagement of battery waste can be harmful?",
+        "choices": {
+            "A": "Texture",
+            "B": "Heavy metals",
+            "C": "Plastics",
+            "D": "Odor",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Which of the following factors leads to Eutrophication?",
+        "choices": {
+            "A": "Excessive use of fertilizers",
+            "B": "Increase of plant nutrients",
+            "C": "Soil Pollution",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "question": "What are 'keystone' species in an ecosystem?",
+        "choices": {
+            "A": "The species whose elimination can seriously affect the ecosystem",
+            "B": "The species whose elimination can benefit the ecosystem",
+            "C": "The species whose elimination would not affect the ecosystem",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What are the two forms of alcohol are included in biofuels?",
+        "choices": {
+            "A": "Ethanol and methanol",
+            "B": "Ethanol and propanol",
+            "C": "Methanol and propanol",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Environmental studies is defined as the branch that deals with the:",
+        "choices": {
+            "A": "Design, study, and discovery of new materials",
+            "B": "The study of humanities, social, biological, and physical sciences",
+            "C": "Incorporate the information and physical sciences",
+            "D": "Approach about the natural world and the impact of humans on its integrity",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Risk is best defined as",
+        "choices": {
+            "A": "A physical injury",
+            "B": "The probability that an action will lead to an injury, damage or loss",
+            "C": "Behavior that is unhealthy",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "The purpose of a Risk Management decision-making process is to",
+        "choices": {
+            "A": "Reduce all risk",
+            "B": "Allow people to decide for themselves whether they will accept the risk",
+            "C": "Reduce the probability and magnitude of a negative outcome",
+            "D": "Create new laws",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "The health measure that assesses the loss of quality of life due to illness or disability is called _______.",
+        "choices": {
+            "A": "Morbidity",
+            "B": "Disability-adjusted life year",
+            "C": "Life expectancy",
+            "D": "Risk assessment",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Which of the following is NOT part of risk assessment?",
+        "choices": {
+            "A": "Exposure assessment",
+            "B": "Dose-response assessment",
+            "C": "Hazard identification",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "A statement about how likely it is that a certain event will occur is called",
+        "choices": {
+            "A": "Probability",
+            "B": "Possibility",
+            "C": "Risk assessment",
+            "D": "Risk analysis",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Potable water is best described as",
+        "choices": {
+            "A": "Freshwater that is suitable for drinking",
+            "B": "Freshwater that can be transported by pipes for distribution",
+            "C": "Freshwater that is safe for swimming",
+            "D": "All of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Approxmately what percent of the world's water is fresh water?",
+        "choices": {
+            "A": "3",
+            "B": "9",
+            "C": "15",
+            "D": "18",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "The vadose zone is an area below the ground that is",
+        "choices": {
+            "A": "A source of groundwater",
+            "B": "Confined above and below by impervious layers",
+            "C": "Unsaturated",
+            "D": "All of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Major sources of groundwater contamination include",
+        "choices": {
+            "A": "Agriculture",
+            "B": "Underground storage tanks",
+            "C": "Landfills",
+            "D": "All of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Sewage treatment that provides water purification using physical settling of large particles is best defined as",
+        "choices": {
+            "A": "Primary sewage treatment",
+            "B": "Secondary sewage treatment",
+            "C": "Tertiary sewage treatment",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Groundwater mining may cause",
+        "choices": {
+            "A": "Habitat loss",
+            "B": "Nutrient runoff",
+            "C": "Land subsidence",
+            "D": "All of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Improvements to landfill design include",
+        "choices": {
+            "A": "Larger size",
+            "B": "Reducing the amount of yard clippings allowed",
+            "C": "Leachate collection systems",
+            "D": "All of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "In Japan and Switzerland the most common waste disposal methods are",
+        "choices": {
+            "A": "Landfills and incineration",
+            "B": "Landfills and recycling",
+            "C": "Recycling and incineration",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Incinerator ash usually contains which of the following chemicals",
+        "choices": {
+            "A": "Heavy metals",
+            "B": "Organic compounds",
+            "C": "VOCs",
+            "D": "All of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Composting uses _________ processes to transform organic material into compost",
+        "choices": {
+            "A": "Industrial",
+            "B": "Chemical",
+            "C": "Natural",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Banning the sale of one-time-use beverage containers would",
+        "choices": {
+            "A": "Reduce litter",
+            "B": "Save energy",
+            "C": "Save money",
+            "D": "All of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "One technological problem with plastic recycling is that",
+        "choices": {
+            "A": "People do not like to recycle",
+            "B": "Different types of plastics cannot be recycled together",
+            "C": "The technology to recycle plastics does not exist",
+            "D": "All of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "The LD50 refers to the",
+        "choices": {
+            "A": "Last dose administered before a test organism is killed",
+            "B": "Lethal dose that will kill 50% of a test population",
+            "C": "Probability of killing a test organism 50% of the time",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "The term threshold level describes the concentration of a chemical at which",
+        "choices": {
+            "A": "Industrial exposure is expected to occur",
+            "B": "Industrial exposure is allowed by law",
+            "C": "Exposure to the chemical does not affect the test animals",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "DDT is an example of a",
+        "choices": {
+            "A": "Non-persistent chemical",
+            "B": "Persistent chemical",
+            "C": "Biodegradable chemical",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Which of the following produces the greatest percent of toxic waste material released to the environment in the US?",
+        "choices": {
+            "A": "Chemical industry",
+            "B": "Paper industry",
+            "C": "Electric utilities",
+            "D": "Metal mining",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Each discarded computer contains approximately 2 kg (4 lbs) of which metal?",
+        "choices": {
+            "A": "Cadmium",
+            "B": "Lead",
+            "C": "Mercury",
+            "D": "Arsenic",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Which of the following is true about confined aquifers?",
+        "choices": {
+            "A": "They contain surface water",
+            "B": "They are bordered by either an aquiclude or an aquitard",
+            "C": "They are made up of the shallowest part of the water table",
+            "D": "They are chiefly affected by transpiration",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "A major in-stream use of water is for",
+        "choices": {
+            "A": "Producing hydroelectric power",
+            "B": "Dissolving industrial wastes",
+            "C": "Agricultural irrigation",
+            "D": "Domestic use",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Municipal and industrial discharge pipes are examples of",
+        "choices": {
+            "A": "Nonpoint sources of pollution",
+            "B": "Violations of the Clean Water Act",
+            "C": "Point sources of pollution",
+            "D": "Irrigation",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "High coliform counts in water indicate",
+        "choices": {
+            "A": "Contamination by human wastes",
+            "B": "Phosphorus contamination",
+            "C": "Decreased biological oxygen demand",
+            "D": "Hydrocarbon contamination",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Water use planning involves all of the following issues except",
+        "choices": {
+            "A": "Wastewater treatment",
+            "B": "Water diversion projects",
+            "C": "Storm sewer drainage",
+            "D": "Water use planning considers all of the above issues",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "The stage in wastewater treatment plants that uses biological processes to purify water is called",
+        "choices": {
+            "A": "Secondary sewage treatment",
+            "B": "Primary sewage treatment",
+            "C": "Wastewater reduction",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Groundwater mining in coastal areas can",
+        "choices": {
+            "A": "Increase the salinity of groundwater",
+            "B": "Decrease the toxicity of groundwater",
+            "C": "Decrease the salinity of groundwater",
+            "D": "Increase the water table",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "The principle source of infectious waste material in water is",
+        "choices": {
+            "A": "Industrial waste",
+            "B": "Surface runoff",
+            "C": "Animal feces",
+            "D": "Agricultural pesticides",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which of the following statement about the Zoological Survey of India (ZSI) is true?",
+        "choices": {
+            "A": "It was established in 1890 at the Royal Botanical Gardens, Calcutta",
+            "B": "It is the first crocodile conservation breeding center in Asia",
+            "C": "It was established in 1916 to do an organized survey of fauna in India",
+            "D": "It was established in 1982 for research in Wildlife Management",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which layer of the atmosphere contains the ozone responsible for the absorption of UV (Ultra-Violet) light?",
+        "choices": {
+            "A": "Stratosphere",
+            "B": "Troposphere",
+            "C": "Mesosphere",
+            "D": "None of these",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Which two countries of the world constitute about 57% of the large dams?",
+        "choices": {
+            "A": "India and China",
+            "B": "India and Brazil",
+            "C": "China and Brazil",
+            "D": "India and Japan",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Integrated Crop Management is defined as a process to:",
+        "choices": {
+            "A": "Use the traditional methods for growing crops",
+            "B": "Using alternatives to inorganic fertilizers and pesticides",
+            "C": "Increase production of crops",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "question": "Which element is considered the largest source of world's commercial energy consumption?",
+        "choices": {
+            "A": "Coal",
+            "B": "Oil",
+            "C": "Natural gas",
+            "D": "Nuclear",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Which human activity can decreases the oxygen levels present in the atmosphere?",
+        "choices": {
+            "A": "Deforestation",
+            "B": "Animal hunting",
+            "C": "Mining",
+            "D": "Both A and C",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Which of the following is not a reason for the forest loss?",
+        "choices": {
+            "A": "Increasing use of wood",
+            "B": "Extinction of species",
+            "C": "Extensive use of fuel woods",
+            "D": "Mining and building dams",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Which of the following factors leads to Eutrophication?",
+        "choices": {
+            "A": "Excessive use of fertilizers",
+            "B": "Increase of plant nutrients",
+            "C": "Air Pollution",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "question": "What are the numbers of biodiversity hotspots in the world?",
+        "choices": {
+            "A": "18",
+            "B": "28",
+            "C": "32",
+            "D": "36",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "The worst sufferers of environmental destruction are:",
+        "choices": {
+            "A": "Rich",
+            "B": "Moderate class",
+            "C": "Poor",
+            "D": "All of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "The 3R principle is in which of the following order:",
+        "choices": {
+            "A": "Reduce, Reuse, Recycle",
+            "B": "Reuse, Reduce, Recycle",
+            "C": "Recycle, Reuse, Reduce",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Which of the following is used in the production of Plastic?",
+        "choices": {
+            "A": "Mercury",
+            "B": "Lead",
+            "C": "Vinyl chloride",
+            "D": "None of these",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which method would be utilized to determine the level of bacterial contamination in processed peanut butter?",
+        "choices": {
+            "A": "Turbidity measurement",
+            "B": "Total plate count",
+            "C": "Dry weight measurement",
+            "D": "Direct counting of bacteria on a calibrated slide under the microscope",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "During which phase would it be most likely to see the highest number of endospores in a culture of Bacillus cells?",
+        "choices": {
+            "A": "Death phase",
+            "B": "Lag phase",
+            "C": "Log phase",
+            "D": "Log, lag, and death phases would all have roughly the same number of endospores",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "In what phase would penicillin, an antibiotic that prevents the synthesis of cell walls, have the highest level of effectiveness?",
+        "choices": {
+            "A": "Death phase",
+            "B": "Lag phase",
+            "C": "Log phase",
+            "D": "Stationary phase",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What is the most accurate explanation of generation time in a bacterium among the options provided?",
+        "choices": {
+            "A": "The length of time it takes to reach the log phase",
+            "B": "The length of time it takes for a population of cells to double",
+            "C": "The time it takes to reach stationary phase",
+            "D": "The length of time of the exponential phase",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What role does the Z ring play in the process of binary fission?",
+        "choices": {
+            "A": "It controls the replication of DNA",
+            "B": "It forms a contractile ring at the septum",
+            "C": "It separates the newly synthesized DNA molecules",
+            "D": "It mediates the addition of new peptidoglycan subunits",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "After five generations with no cell death, how many cells will be there if a culture begins with 50 cells?",
+        "choices": {
+            "A": "200",
+            "B": "400",
+            "C": "1600",
+            "D": "3200",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What is the common method of division for filamentous cyanobacteria?",
+        "choices": {
+            "A": "Budding",
+            "B": "Mitosis",
+            "C": "Fragmentation",
+            "D": "Formation of endospores",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What is a cause for the higher prevalence of antimicrobial resistance in biofilms compared to bacteria that are not attached to a surface?",
+        "choices": {
+            "A": "The EPS allows faster diffusion of chemicals in the biofilm",
+            "B": "Cells are more metabolically active at the base of a biofilm",
+            "C": "Cells are metabolically inactive at the base of a biofilm",
+            "D": "The structure of a biofilm favors the survival of antibiotic resistant cells",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What is the purpose of quorum sensing in bacterial cells?",
+        "choices": {
+            "A": "The size of the population",
+            "B": "The availability of nutrients",
+            "C": "The speed of water flow",
+            "D": "The density of the population",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Which statement about autoinducers is not correct?",
+        "choices": {
+            "A": "They bind directly to DNA to activate transcription",
+            "B": "They can activate the cell that secreted them",
+            "C": "N-acylated homoserine lactones are autoinducers in gram-negative cells",
+            "D": "Autoinducers may stimulate the production of virulence factors",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What conclusion can be drawn when a culture tube containing thioglycolate medium is seen to have concentrated growth at the top and a cloudy appearance throughout the rest of the tube?",
+        "choices": {
+            "A": "The organisms die in the presence of oxygen",
+            "B": "The organisms are facultative anaerobes",
+            "C": "The organisms should be grown in an anaerobic chamber",
+            "D": "The organisms are obligate aerobes",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Based on the observation of a clear tube with concentrated growth only at the bottom, what can be inferred?",
+        "choices": {
+            "A": "The organisms are obligate anaerobes",
+            "B": "The organisms are facultative anaerobes",
+            "C": "The organisms are aerotolerant",
+            "D": "The organisms are obligate aerobes",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "What is the most likely identity of the bacterium that infects the airways of patients with cystic fibrosis and cannot survive without oxygen?",
+        "choices": {
+            "A": "An aerotolerant anaerobe",
+            "B": "An obligate aerobe",
+            "C": "An obligate anaerobe",
+            "D": "A facultative anaerobe",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Which of the following is the likely identity of the bacterium that causes cavities, resides in gum pockets, lacks catalase activity, and can be cultured outside of an anaerobic chamber?",
+        "choices": {
+            "A": "A facultative anaerobe",
+            "B": "An obligate aerobe",
+            "C": "An obligate anaerobe",
+            "D": "An aerotolerant anaerobe",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "What types of bacteria are likely to be found in mine drainage with a pH of 1-2?",
+        "choices": {
+            "A": "Alkaliphiles",
+            "B": "Acidophiles",
+            "C": "Neutrophiles",
+            "D": "Obligate anaerobes",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What types of bacteria are isolated from Lake Natron, where the pH of the water is approximately 10?",
+        "choices": {
+            "A": "Alkaliphiles",
+            "B": "Facultative anaerobes",
+            "C": "Neutrophiles",
+            "D": "Obligate anaerobes",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Where would you most commonly come across an acid-loving organism?",
+        "choices": {
+            "A": "Human blood at pH 7.2",
+            "B": "A hot vent at pH 1.5",
+            "C": "Human intestine at pH 8.5",
+            "D": "Milk at pH 6.5",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Which contaminants are likely responsible for the contamination of the forgotten soup container in the refrigerator?",
+        "choices": {
+            "A": "Thermophiles",
+            "B": "Acidophiles",
+            "C": "Mesophiles",
+            "D": "Psychrotrophs",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "What type of bacteria are likely to be found in a hot tub with a temperature of 39 \u00b0C?",
+        "choices": {
+            "A": "Thermophiles",
+            "B": "Psychrotrophs",
+            "C": "Mesophiles",
+            "D": "Hyperthermophiles",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Where would you most likely come across a hyperthermophile?",
+        "choices": {
+            "A": "Hot tub",
+            "B": "Warm ocean water in Florida",
+            "C": "Hydrothermal vent at the bottom of the ocean",
+            "D": "Human body",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Why is it that jams and dried meats do not commonly need to be refrigerated in order to avoid spoiling?",
+        "choices": {
+            "A": "Low pH",
+            "B": "Toxic alkaline chemicals",
+            "C": "Naturally occurring antibiotics",
+            "D": "Low water activity",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Which type of bacteria are most likely to be found in salt marshes?",
+        "choices": {
+            "A": "Acidophiles",
+            "B": "Barophiles",
+            "C": "Halotolerant",
+            "D": "Thermophiles",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What does the term prokaryotes mean?",
+        "choices": {
+            "A": "Very small organisms",
+            "B": "Unicellular organisms that have no nucleus",
+            "C": "Multicellular organisms",
+            "D": "Cells that resemble animal cells more than plant cells",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What does the term microbiota encompass?",
+        "choices": {
+            "A": "All microorganisms of the same species",
+            "B": "All of the microorganisms involved in a symbiotic relationship",
+            "C": "All microorganisms in a certain region of the human body",
+            "D": "All microorganisms in a certain geographic region",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What characteristics apply to food that is packed in plastic for the purpose of microwaving?",
+        "choices": {
+            "A": "Dehydrated",
+            "B": "Freeze-dried",
+            "C": "Packaged aseptically",
+            "D": "Commercially sterilized",
+            "E": "Autoclaved"
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Which approach would be the simplest to promote the interaction between the substrate and Acetobacter in the production of vitamin C?",
+        "choices": {
+            "A": "Add substrate and Acetobacter to a test tube",
+            "B": "Affix Acetobacter to a surface and run substrate over it",
+            "C": "Add substrate and Acetobacter to a bioreactor",
+            "D": "Find an alternative to this step",
+            "E": "None of the above"
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What is the cause of food spoilage caused by Geobacillus Stearothermophilus?",
+        "choices": {
+            "A": "Bacillus coagulans",
+            "B": "Byssochlamys",
+            "C": "Flat sour spoilage",
+            "D": "Lactobacillus",
+            "E": "Thermophilic anaerobic spoilage"
+        },
+        "correct_answer": [
+            "E"
+        ]
+    },
+    {
+        "question": "What is the reason for the decay of canned foods by Geobacillus stearothermophilus?",
+        "choices": {
+            "A": "Bacillus coagulans",
+            "B": "Byssochlamys",
+            "C": "Flat sour spoilage",
+            "D": "Lactobacillus",
+            "E": "Thermophilic anaerobic spoilage"
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What is a fungus that is resistant to heat and leads to spoilage in foods with high acidity?",
+        "choices": {
+            "A": "Bacillus coagulans",
+            "B": "Byssochlamys",
+            "C": "Flat sour spoilage",
+            "D": "Lactobacillus",
+            "E": "Thermophilic anaerobic spoilage"
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What does the term 12D treatment mean?",
+        "choices": {
+            "A": "Heat treatment sufficient to kill 12 bacteria",
+            "B": "The use of 12 different treatments to preserve food",
+            "C": "A 10^12 reduction in C",
+            "D": "Botulinum endospores",
+            "E": "Any process that destroys thermophilic bacteria"
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which microorganism among the options is responsible for creating a pesticide that occurs in nature?",
+        "choices": {
+            "A": "Penicillium chrysogenum",
+            "B": "Saccharomyces cerevisiae",
+            "C": "Bacillus thuringiensis",
+            "D": "Lactobacillus bulgaricus",
+            "E": "Thiobacillus ferrooxidans"
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What method does aseptic packaging use to sterilize laminated paper or plastic before filling it with food?",
+        "choices": {
+            "A": "Hot HCl solution",
+            "B": "Gamma radiation",
+            "C": "Hot hydrogen peroxide solution",
+            "D": "X-ray",
+            "E": "Autoclave"
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which reaction does yeast carry out during the process of making wine?",
+        "choices": {
+            "A": "Sugar \u279d CO2 + H2O",
+            "B": "Ethanol \u279d acetic acid",
+            "C": "Malic acid \u279d lactic acid",
+            "D": "Carbon dioxide \u279d sucrose",
+            "E": "Sugar \u279d ethanol"
+        },
+        "correct_answer": [
+            "E"
+        ]
+    },
+    {
+        "question": "Which of the following products produced using microbial fermentations is not considered an industrial product?",
+        "choices": {
+            "A": "Aspartic acid",
+            "B": "Citric acid",
+            "C": "Glutamic acid",
+            "D": "Riboflavin",
+            "E": "Saccharin"
+        },
+        "correct_answer": [
+            "E"
+        ]
+    },
+    {
+        "question": "In this list of organisms (Echinococcus, Cyclospora, Aspergillus, Taenia, Toxoplasma, Trichinella), how many phyla are there?",
+        "choices": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "What is the main host for Plasmodium vivax?",
+        "choices": {
+            "A": "Human",
+            "B": "Anopheles",
+            "C": "A sporocyte",
+            "D": "A gametocyte",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Can you put these stages in the correct order of development, beginning with the initial stage after the egg? The stages are: 1. Metacercaria 2. Redia 3. Adult 4. Miracidium 5. Cercaria.",
+        "choices": {
+            "A": "5,4,1,2,3",
+            "B": "4,2,5,1,3",
+            "C": "2,5,4,3,1",
+            "D": "3,4,5,1,2",
+            "E": "2,4,5,1,3"
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Which stages of the parasite would typically be present in a snail, if it serves as the initial host? (Options: metacercaria, redia, adult, miracidium, cercaria)",
+        "choices": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What is the parasitic stage present in the flea for Dipylidium caninum tapeworm, with dogs acting as the final host?",
+        "choices": {
+            "A": "Cysticercus larva",
+            "B": "Proglottids",
+            "C": "Scolex",
+            "D": "Adult",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What are the correct statements about yeasts?",
+        "choices": {
+            "A": "1, 2, 3, 4",
+            "B": "3, 4, 5, 6",
+            "C": "2, 3, 4, 5",
+            "D": "1, 3, 5, 6",
+            "E": "2, 3, 4"
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What event occurs after cell fusion in an ascomycete?",
+        "choices": {
+            "A": "Conidiophore formation",
+            "B": "Conidiospore germination",
+            "C": "Ascus opening",
+            "D": "Ascospore formation",
+            "E": "Conidiospore release"
+        },
+        "correct_answer": [
+            "E"
+        ]
+    },
+    {
+        "question": "What are the characteristics of these organisms that cannot survive outside of host cells and do not have mitochondria?",
+        "choices": {
+            "A": "Apicomplexa",
+            "B": "Ciliates",
+            "C": "Dinoflagellates",
+            "D": "Microsporidia",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "What are the characteristics of these parasites that lack movement but possess unique structures for infiltrating the tissue of their hosts?",
+        "choices": {
+            "A": "Apicomplexa",
+            "B": "Ciliates",
+            "C": "Dinoflagellates",
+            "D": "Microsporidia",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Can these organisms, which undergo photosynthesis, result in paralytic shellfish poisoning?",
+        "choices": {
+            "A": "Apicomplexa",
+            "B": "Ciliates",
+            "C": "Dinoflagellates",
+            "D": "Microsporidia",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "In which of the following organisms can the cell wall be found?\n1. Animals \n2. Fungi \n3. Algae \n4. Protozoa \n5. Plants \n6. Bacteria",
+        "choices": {
+            "A": "All of the above",
+            "B": "1, 3, and 5",
+            "C": "2, 3, and 5",
+            "D": "3 and 4",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which organisms do not have a cell wall? These include animals, fungi, algae, protozoa, plants, and bacteria.",
+        "choices": {
+            "A": "All of the above",
+            "B": "1, 3, and 5",
+            "C": "2 and 6",
+            "D": "1 and 4",
+            "E": "3 and 4"
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Do all eukaryotes possess:",
+        "choices": {
+            "A": "Cell walls and cell membranes",
+            "B": "Nucleus and sterols",
+            "C": "Phospholipid bilayer and chitin",
+            "D": "",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What are some examples of the reproductive spores found in fungi?",
+        "choices": {
+            "A": "Conidiospores, sporangiospores and basidiospores",
+            "B": "Conidiospores and chlamydoconidium",
+            "C": "Zygospores, ascospores and basidiospores",
+            "D": "Fungi only reproduce asexually",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Can you rephrase the question about Neisseria meningitidis (meningococcus)?",
+        "choices": {
+            "A": "It is always pathological to humans",
+            "B": "Immunisation is available against all the virulent strains",
+            "C": "It survives well outside the body",
+            "D": "It has a polysaccharide capsule",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Which statement accurately describes the diagnosis process for Herpes simplex encephalitis?",
+        "choices": {
+            "A": "This shows a predilection for the occipital lobe",
+            "B": "It typically has a rapid symptom onset",
+            "C": "It is a mild self-limiting disease",
+            "D": "It is diagnosed by CSF PCR",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Which of the following statements accurately describe the events associated with the onset of specific diseases after an infection in relation to immunity?",
+        "choices": {
+            "A": "Immunity in newborns is the result of transplacental transfer of maternal T cells",
+            "B": "Elevated IgM signifies recent infection",
+            "C": "Defects in the complement pathway predispose to infections with Neisseria species",
+            "D": "Splenectomy predisposes to cryptococcal infections",
+            "E": ""
+        },
+        "correct_answer": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "question": "Which diseases from the list below are classified as notifiable?",
+        "choices": {
+            "A": "HIV",
+            "B": "Malaria",
+            "C": "Food poisoning",
+            "D": "Chickenpox",
+            "E": ""
+        },
+        "correct_answer": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "question": "Which statement is true about neutrophils among the following options?",
+        "choices": {
+            "A": "Most are found in the circulation",
+            "B": "Adhesion is mediated by opsonin",
+            "C": "A neutrophilia with left shift is due to the appearance of immature forms",
+            "D": "A neutrophilia occurs following exercise",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "question": "What is the definition of miliary tuberculosis (TB)?",
+        "choices": {
+            "A": "This is diagnosed easily by examining sputum for acid-fast bacilli",
+            "B": "It is frequently diagnosed only at post-mortem examination",
+            "C": "It is highly contagious",
+            "D": "Lumbar puncture in meningeal TB usually shows elevated protein and glucose levels",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What is toxic shock syndrome?",
+        "choices": {
+            "A": "This results from a superantigen toxin",
+            "B": "Over 80% of cases are associated with tampon use",
+            "C": "It typically follows streptococcal infection",
+            "D": "It is usually associated with a petechial rash",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What does Clostridium spp. refer to?",
+        "choices": {
+            "A": "These cause clinical effects by the release of endotoxins",
+            "B": "They are spore-forming, anaerobic, Gram-negative bacilli",
+            "C": "Clostridium perfringens causes gas gangrene and food poisoning",
+            "D": "Symptomatic Clostridium difficile infection occurs only after antibiotic use",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which statement about malaria is correct?",
+        "choices": {
+            "A": "Benign malaria is usually caused by Plasmodium ovale",
+            "B": "It is excluded if no parasites are seen on a blood film",
+            "C": "Malaria occurring in pregnancy is associated with a poorer prognosis",
+            "D": "It may present more than 9 months after return from an endemic area",
+            "E": ""
+        },
+        "correct_answer": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "question": "What is the immunisation schedule in the United Kingdom?",
+        "choices": {
+            "A": "Diphtheria, tetanus and pertussis are given at 2, 3, 4 and 18 months of age",
+            "B": "Pneumococcal vaccination is given at 2, 4 and 13 months",
+            "C": "Chickenpox immunisation is given with the MMR immunisation",
+            "D": "Tetanus and diphtheria vaccines are live attenuated vaccines",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Are the given organisms and the associated diseases accurately matched?",
+        "choices": {
+            "A": "Borrelia burgdorferi \u2013 Weil\u2019s disease",
+            "B": "Corynebacterium sp. \u2013 diphtheria",
+            "C": "Rhabdovirus \u2013 dengue fever",
+            "D": "Rotavirus \u2013 bronchiolitis",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "How can we rephrase the question \"What is Pelvic Inflammatory Disease (PID)?\"",
+        "choices": {
+            "A": "This usually results from the haematogenous spread of organisms",
+            "B": "Chlamydia is the most frequent causative organism",
+            "C": "When caused by gonorrhoea it may be accompanied by a perihepatitis",
+            "D": "Treatment should be commenced only once the causative organism has been confirmed",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "In the context of intravenous drug users, which statement about bacterial endocarditis is accurate?",
+        "choices": {
+            "A": "This is excluded by a negative blood culture",
+            "B": "It is most commonly the result of staphylococcal infection",
+            "C": "In intravenous drug users it is commonly due to Strep. bovis",
+            "D": "It affects the tricuspid and pulmonary valve more often in injecting drug users",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Which pathogens have been linked to the occurrence of myocarditis?",
+        "choices": {
+            "A": "HIV",
+            "B": "Borrelia spp",
+            "C": "EBV",
+            "D": "Strep. viridans",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "question": "Can you rephrase the question about viral meningitis?",
+        "choices": {
+            "A": "This is usually a mild, self-limiting disease",
+            "B": "It is most commonly caused by HSV-1 infection",
+            "C": "It occurs most commonly in winter",
+            "D": "Examination of the CSF shows a lymphocytosis",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "question": "What increases the virulence of streptococci?",
+        "choices": {
+            "A": "Bacterial production of streptokinase",
+            "B": "The presence of cell surface G-proteins",
+            "C": "Being an encapsulated organism",
+            "D": "Bacterial production of Panton\u2013 Valentine leukocidin",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "question": "Which statements about HIV/AIDS among the following are accurate?",
+        "choices": {
+            "A": "AIDS is defined in the UK by a CD4 count < 200",
+            "B": "Seroconversion occurs within 4 weeks of infection",
+            "C": "Opportunistic infections occur during seroconversion",
+            "D": "It is a lentivirus",
+            "E": ""
+        },
+        "correct_answer": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "question": "Which vaccines are live?",
+        "choices": {
+            "A": "Measles",
+            "B": "Hepatitis B",
+            "C": "BCG",
+            "D": "Influenza",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "question": "Which statements regarding food poisoning are accurate?",
+        "choices": {
+            "A": "This is a notifiable disease",
+            "B": "When caused by Staph, aureus, it occurs 12 \u2013 48 hours after ingestion of contaminated food",
+            "C": "That caused by Shigella spp, is associated with acute, watery, bloody diarrhoea",
+            "D": "Salmonella food poisoning is most likely if accompanied by severe abdominal pain",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "question": "Which statements about osteomyelitis in children are accurate?",
+        "choices": {
+            "A": "This results mostly from staphylococcal infection",
+            "B": "When caused by Haemophilus sp., it occurs as a complication of sickle cell disease",
+            "C": "It most commonly arises from overlying trauma",
+            "D": "It most commonly affects the femur",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "question": "What are B lymphocytes?",
+        "choices": {
+            "A": "These are produced in the bone marrow before maturing in thymic tissue",
+            "B": "They are the predominant circulating lymphocytes",
+            "C": "The primary function is antibody production",
+            "D": "They act as antigen-presenting cells",
+            "E": ""
+        },
+        "correct_answer": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "question": "Are the associations between viruses and methods of spread listed below accurate?",
+        "choices": {
+            "A": "Adenovirus \u2013 faecal\u2013oral",
+            "B": "Varicella \u2013 airborne",
+            "C": "CMV \u2013 blood borne",
+            "D": "Hepatitis A \u2013 blood borne",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "question": "What are the defects in the immune response and the pathogens associated with them?",
+        "choices": {
+            "A": "Complement deficiency \u2013 Candida spp",
+            "B": "Complement deficiency \u2013 Neisseria spp",
+            "C": "T-cell deficiency \u2013 CMV",
+            "D": "Neutropenia \u2013 Candida spp",
+            "E": ""
+        },
+        "correct_answer": [
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "question": "Which statement accurately describes the immune status of an individual who has recovered from tetanus?",
+        "choices": {
+            "A": "Cl, tetani is a facultative anaerobic bacillus",
+            "B": "The neurotoxin tetanospasmin blocks acetylcholine transmission",
+            "C": "Tetanospasmin reversibly binds to peripheral nerve terminals",
+            "D": "Recovery from tetanus does not confer immunity",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "What is the main organic compound that provides energy for our cells?",
+        "choices": {
+            "A": "Lipids",
+            "B": "Proteins",
+            "C": "Carbohydrates",
+            "D": "Nucleic Acids",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What is the primary function of carbohydrates in the human body?",
+        "choices": {
+            "A": "Providing immediate energy for cells, especially in the brain",
+            "B": "Serving as the main structural component of cell membranes",
+            "C": "Storing energy in the form of glycogen in liver and muscles",
+            "D": "Acting as a catalyst to speed up chemical reactions",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "question": "Which one of these vitamins can dissolve in water?",
+        "choices": {
+            "A": "Vitamin A",
+            "B": "Vitamin K",
+            "C": "Vitamin E",
+            "D": "Vitamin C",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "What are the main parts of cell membranes?",
+        "choices": {
+            "A": "Phospholipids with a hydrophilic head and hydrophobic tail structure",
+            "B": "Polysaccharides formed through dehydration synthesis",
+            "C": "Proteins that facilitate transport and communication across the membrane",
+            "D": "Nucleotides that store genetic information",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "question": "Which of these options is not considered a lipid?",
+        "choices": {
+            "A": "Triglyceride",
+            "B": "Steroid",
+            "C": "Glycogen",
+            "D": "Phospholipid",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which types of carbohydrates and their functions are true when discussed?",
+        "choices": {
+            "A": "Monosaccharides are the simplest form of carbohydrates and include glucose, a primary energy source for cells",
+            "B": "Disaccharides are formed when two monosaccharides join together, like sucrose (table sugar) which is composed of glucose and fructose",
+            "C": "Polysaccharides like cellulose can be easily digested by human enzymes to provide energy",
+            "D": "Glycogen, a polysaccharide, is stored in the liver and muscles and is used as a short-term energy reserve",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "question": "What are the roles and characteristics of vitamins and minerals in the human body?",
+        "choices": {
+            "A": "Fat-soluble vitamins include vitamins A, D, E, and K, and they can be stored in the body's fatty tissues",
+            "B": "Minerals like calcium and magnesium are important for bone health and muscle function",
+            "C": "A deficiency in vitamin B12 can lead to anemia and neurological problems",
+            "D": "All of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "What kind of fat is generally in a solid state when at room temperature?",
+        "choices": {
+            "A": "Saturated fats",
+            "B": "Unsaturated fats",
+            "C": "Trans fats",
+            "D": "Phospholipids",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What advantages or qualities are associated with the consumption of unsaturated fats when considering lipids in the human diet?",
+        "choices": {
+            "A": "They tend to decrease inflammation in the body",
+            "B": "Unsaturated fats, particularly in fish, are rich in essential fatty acids like omega-3",
+            "C": "They are typically solid at room temperature and are found in meats and dairy",
+            "D": "Consuming them can help in reducing the risk of cardiovascular diseases",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "question": "What are the attributes of saturated fats?",
+        "choices": {
+            "A": "They are typically liquid at room temperature",
+            "B": "They have no double bonds between carbon atoms",
+            "C": "They are primarily found in plant-based foods",
+            "D": "They can raise levels of LDL cholesterol in the blood",
+            "E": ""
+        },
+        "correct_answer": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "question": "What is the molecule that facilitates the transfer of energy inside the cell?",
+        "choices": {
+            "A": "DNA",
+            "B": "RNA",
+            "C": "ATP",
+            "D": "ADP",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What roles do proteins play in the human body?",
+        "choices": {
+            "A": "They serve as a primary energy source during intense physical activity.",
+            "B": "They are involved in the transport of oxygen in the bloodstream.",
+            "C": "They catalyze biochemical reactions as enzymes.",
+            "D": "They store genetic information for cell replication.",
+            "E": ""
+        },
+        "correct_answer": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "question": "What are the accurate statements about essential amino acids?",
+        "choices": {
+            "A": "They can be synthesized by the human body in sufficient amounts.",
+            "B": "They must be obtained through the diet because the body can't produce them.",
+            "C": "They play a crucial role in building and repairing tissues.",
+            "D": "They can be stored in the body for long periods without degradation.",
+            "E": ""
+        },
+        "correct_answer": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "question": "Which sugar among the options is classified as a disaccharide?",
+        "choices": {
+            "A": "Glucose",
+            "B": "Fructose",
+            "C": "Galactose",
+            "D": "Lactose",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "What functions do nucleic acids serve in cells?",
+        "choices": {
+            "A": "They assist in protein synthesis.",
+            "B": "They store and transmit hereditary information.",
+            "C": "They provide insulation and protection for internal organs.",
+            "D": "They help in digesting dietary fats.",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "question": "What are the main sources of Omega-3 fatty acids?",
+        "choices": {
+            "A": "Lean meats and poultry.",
+            "B": "Whole grains and legumes.",
+            "C": "Freshwater and saltwater fish.",
+            "D": "Dark green leafy vegetables.",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which one of these options is a monosaccharide?",
+        "choices": {
+            "A": "Ribose",
+            "B": "Glucose",
+            "C": "Fructose",
+            "D": "Maltose",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "What are the roles of lipids in the human body?",
+        "choices": {
+            "A": "Acting as a source of stored energy.",
+            "B": "Facilitating the synthesis of steroid hormones.",
+            "C": "Assisting in the transport of water-soluble vitamins.",
+            "D": "Speeding up the rate of metabolism.",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "question": "Which of these amino acids is not essential?",
+        "choices": {
+            "A": "Valine",
+            "B": "Tryptophan",
+            "C": "Leucine",
+            "D": "Glutamine",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "What type of molecule is cholesterol, which is essential for cell membranes?",
+        "choices": {
+            "A": "Protein",
+            "B": "Nucleic acid",
+            "C": "Carbohydrate",
+            "D": "Steroid",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "What is the term for the bond that is created between amino acids?",
+        "choices": {
+            "A": "Glycosidic bond",
+            "B": "Phosphodiester bond",
+            "C": "Peptide bond",
+            "D": "Hydrogen bond",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which statements about the roles of proteins in structure and function are true?",
+        "choices": {
+            "A": "Collagen, a protein, provides tensile strength to skin, bones, and tendons.",
+            "B": "Hemoglobin, another protein, is crucial for lipid metabolism.",
+            "C": "Enzymes, which are proteins, act as catalysts and are highly specific in their actions, often working on only one type of substrate.",
+            "D": "Proteins play a minimal role in the repair and regeneration of body tissues.",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "question": "Which food from the following options contains a high amount of unsaturated fats?",
+        "choices": {
+            "A": "Butter",
+            "B": "Olive oil",
+            "C": "Beef fat",
+            "D": "Cheese",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What is the main protein that is present in skin and connective tissues?",
+        "choices": {
+            "A": "Keratin",
+            "B": "Collagen",
+            "C": "Hemoglobin",
+            "D": "Insulin",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Before introducing them into food, which of the following substances needs to have their safety proven?",
+        "choices": {
+            "A": "Pesticide chemicals",
+            "B": "Substances migrating from food packaging",
+            "C": "Color additives",
+            "D": "All of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "What kind of data, in addition to toxicity and dose-response data from animal studies, is used to assess the safety of a food substance?",
+        "choices": {
+            "A": "Rates of consumption of the food to which the substance is added",
+            "B": "The concentration of the substance in food",
+            "C": "The daily intake of the substance by humans consuming the food",
+            "D": "The total amount of the substance a person will consume over a lifetime",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Why are the doses of substances used in animal toxicity studies often much higher than those experienced by humans?",
+        "choices": {
+            "A": "Rates of consumption of the food to which the substance is added",
+            "B": "The concentration of the substance in food\u00a0",
+            "C": "The daily intake of the substance by humans consuming the food\u00a0",
+            "D": "The total amount of the substance a person will consume over a lifetime\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What is the reason why food contamination risk assessment does not generally rely on observational epidemiology studies?",
+        "choices": {
+            "A": "Animals are generally much less sensitive than people\u00a0",
+            "B": "Such tests can detect only very large risks because of the fact that only small numbers of animals can be used\u00a0",
+            "C": "It is difficult in such studies to determine whether the observed toxic effects were caused by the substance\u00a0",
+            "D": "It is the only way to ensure results are applicable to people\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Why is risk assessment used for data on toxicity and human exposure?",
+        "choices": {
+            "A": "It is never possible to know whether observed effects are caused by the contaminant\u00a0",
+            "B": "Human exposure though food is usually much less than exposures that have been studied\u00a0",
+            "C": "Controlled animal studies provide more reliable information\u00a0",
+            "D": "Reliable dose-response data are difficult to acquire and often unavailable\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "When can it be determined that a food additive is safe?",
+        "choices": {
+            "A": "Estimate the likelihood, or probability, of a toxic effect on exposed humans\u00a0",
+            "B": "To support risk management decisions for food substances\u00a0",
+            "C": "To derive Allowable Daily Intakes\u00a0",
+            "D": "All of the above\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What is the usual approach for managing the risks associated with chemical contaminants in food?",
+        "choices": {
+            "A": "No evidence of human toxicity has been observed over the period of its use\u00a0",
+            "B": "Estimated Daily Intake (EDI) from its presence in food is less than its ADI\u00a0",
+            "C": "Its toxic effects are observed only at doses 100x the EDI\u00a0",
+            "D": "Its benefits outweigh its risks\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Are there potential health risks associated with nutrients?",
+        "choices": {
+            "A": "Banning of the contaminant from food\u00a0",
+            "B": "Allowing levels of contamination based on what manufacturers believe is achievable\u00a0",
+            "C": "Banning any food found to contain detectable amounts of the contaminants\u00a0",
+            "D": "Prohibiting the introduction into commerce food containing contaminants at levels greater than a specified level (a risk-based MRL or tolerance)\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What statement provides an accurate description of food allergies?",
+        "choices": {
+            "A": "When intakes exceed established ULs (Upper Levels)\u00a0",
+            "B": "At any level greater than a recommended dietary intake\u00a0",
+            "C": "Only when intakes are less than those required for nutritional benefits\u00a0",
+            "D": "Under no known conditions of usual intake\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What are the top two reasons for foodborne illness in the United States and Europe?",
+        "choices": {
+            "A": "Are avoidable if the allergic agents are not allowed to exceed specified limits\u00a0",
+            "B": "Are a form of food intolerance\u00a0",
+            "C": "Usually occur only after an individual has been sensitized by prior exposure\u00a0",
+            "D": "Are uncomfortable but generally of little medical concern\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What are the two components of HACCP?",
+        "choices": {
+            "A": "Salmonella and Campylobacter\u00a0",
+            "B": "Listeria and Salmonella\u00a0",
+            "C": "Shigella and Staphlococcus\u00a0",
+            "D": "Coli STECs and non-STEC subtypes\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Which of the following methods is NOT considered safe for thawing foods?",
+        "choices": {
+            "A": "Hazard analysis and critical control points\u00a0",
+            "B": "Health analysis and critical control points\u00a0",
+            "C": "Hazard analysis and critical conformation production\u00a0",
+            "D": "Health analysis and critical conformation production\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What is the virus that is present in shellfish from polluted water and foods that are touched by infected people and then consumed uncooked?",
+        "choices": {
+            "A": "Thawing under cold running water\u00a0",
+            "B": "Thawing in the refrigerator\u00a0",
+            "C": "Thawing in a sink of warm water\u00a0",
+            "D": "Thawing in the microwave\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "How can raw fish be prepared to prevent food-borne illness?",
+        "choices": {
+            "A": "Influenza\u00a0",
+            "B": "Hepatitis A\u00a0",
+            "C": "Hepatitis C\u00a0",
+            "D": "Rhinovirus\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Where is Listeria monocytogenes, a harmful microorganism, typically found?",
+        "choices": {
+            "A": "Carefully examine the fish visually and pick out the parasites\u00a0",
+            "B": "Freeze the fish at -10 deg F for at least 7 days\u00a0",
+            "C": "Chill the fish before serving\u00a0",
+            "D": "Heat the fish, but not so much that is becomes opaque\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What is the product of microorganisms in the fermentation process that hinders the growth of harmful microorganisms?",
+        "choices": {
+            "A": "Undercooked meat\u00a0",
+            "B": "Soft cheeses and unpasteurized milk\u00a0",
+            "C": "Pork\u00a0",
+            "D": "Poultry\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "If someone has a food-borne illness, when should they get in touch with a doctor?",
+        "choices": {
+            "A": "Alkali and acid\u00a0",
+            "B": "Acid and alcohol\u00a0",
+            "C": "Alcohol and alkali\u00a0",
+            "D": "Water",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "What is the first step to take if a 30-year-old man consumes an unidentified substance and starts vomiting?",
+        "choices": {
+            "A": "Blood is present in the stool\u00a0",
+            "B": "Fever is 102 deg F or greater\u00a0",
+            "C": "Symptoms persist for more than 2-3 days\u00a0",
+            "D": "All of the aboves",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Which of these options is more effective in an environment with a lower pH?",
+        "choices": {
+            "A": "Collect the vomitus and bring it to the hospital\u00a0",
+            "B": "Apply a bag-valve mask\u00a0",
+            "C": "Analyze the vomitus and try to identify the poison\u00a0",
+            "D": "Suction his oropharynx for no longer than 30 seconds\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What type of beams are used to irradiate foods instead of gamma radiation, considering that this method does not produce any radioactive waste?",
+        "choices": {
+            "A": "Yeasts and molds\u00a0",
+            "B": "Bacteria\u00a0",
+            "C": "Viruses\u00a0",
+            "D": "Protozoa\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What is the main fungal genus that is responsible for producing aflatoxin?",
+        "choices": {
+            "A": "Microwave\u00a0",
+            "B": "Electron\u00a0",
+            "C": "Magnetic\u00a0",
+            "D": "None of the choices\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What is a significant living thing that is known for causing food-related illnesses?",
+        "choices": {
+            "A": "Rhizopus\u00a0",
+            "B": "Aspergillus\u00a0",
+            "C": "Claviceps\u00a0",
+            "D": "Penicillium\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What is the most common method used to identify food-borne pathogens?",
+        "choices": {
+            "A": "Salmonella",
+            "B": "Staphylococcus\u00a0",
+            "C": "Pseudomonas\u00a0",
+            "D": "Bacillus\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What is accurate about the use of molecular methods for detecting microorganisms in food?",
+        "choices": {
+            "A": "PCR\u00a0",
+            "B": "Standard culture techniques\u00a0",
+            "C": "Pulsed-field gel electrophoresis\u00a0",
+            "D": "None of the choices\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "What are some food analysis techniques that can be categorized as Enhanced fluid/solvent extraction?",
+        "choices": {
+            "A": "They can be used to detect the presence of a single specific pathogen\u00a0",
+            "B": "They can be used to detect viruses that are not easily culturable\u00a0",
+            "C": "They can be used to detect slow growing pathogens\u00a0",
+            "D": "All of the choices are correct\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "question": "What are the disadvantages of ILs (ionic liquids) as environmentally-friendly extraction solvents?",
+        "choices": {
+            "A": "Liquid\u2013liquid extraction (LLE)",
+            "B": "Subcritical water extraction (SWE)",
+            "C": "Pressurized liquid extraction (PLE)",
+            "D": "Single short column (SSC",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What is the formula utilized for determining the amount of carbohydrates in food using analytical methods?",
+        "choices": {
+            "A": "Negligible volatility",
+            "B": "Chemical instability\u00a0",
+            "C": "Low flammability",
+            "D": "Thermal stability",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What is the most frequently utilized method in sample preparation to extract low molecular weight carbohydrates from foods when analyzing Monosaccharides and Oligosaccharides?",
+        "choices": {
+            "A": "%carbohydrates = 100 - %moisture - %protein - %lipid - %mineral",
+            "B": "%carbohydrates = 100 - %moisture - %protein - %lipid - %mineral-%ash-%fiber",
+            "C": "%carbohydrates = 100 - %moisture - %protein - %lipid - %mineral-%ash-%residue-%inulin",
+            "D": "%carbohydrates = 100 - %moisture - %protein - %lipid\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What is a false statement regarding the use of ion-exchange for sample preparation in the analysis of Monosaccharides and Oligosaccharides?",
+        "choices": {
+            "A": "Boil a defatted sample with ionic liquid",
+            "B": "Mix a defatted sample with keton solution",
+            "C": "Boil a defatted sample with an 80% alcohol solution",
+            "D": "Mix a defatted sample with base solvent\u00a0",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What are some commonly employed effective chromatographic techniques for analyzing monosaccharides and oligosaccharides? (multiple options)",
+        "choices": {
+            "A": "Non-polar molecules can be removed by passing a solution through a column with a non-polar stationary phase",
+            "B": "Many monosaccharides and oligosaccharides are polar non-charged molecules and can be separated from charged molecules by passing samples through ion-exchange columns",
+            "C": "Many monosaccharides and oligosaccharides are non-polar molecules and can separate from charged molecules by passing samples through ion-exchange columns",
+            "D": "Proteins, amino acids, organic acids, minerals and hydrophobic compounds cannot be separated from the carbohydrates with Ion-exchange method",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "question": "What is the underlying principle behind using chromatography to separate carbohydrates?",
+        "choices": {
+            "A": "Gas chromatography (GC)",
+            "B": "High Performance Liquid chromatography (HPLC",
+            "C": "Ion-exchange chromatography",
+            "D": "Super critical fluid chromatography",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What are the accurate statements about the titration method used in food analysis? (multiple correct answers)",
+        "choices": {
+            "A": "Differential precipitation characteristics",
+            "B": "Differential evaporation characteristics",
+            "C": "Differential adsorption characteristics",
+            "D": "Differential absorption characteristics",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "question": "What is an instance of a colorimetric technique?",
+        "choices": {
+            "A": "The results depend on the precise reaction times, temperatures and reagent concentrations",
+            "B": "It can distinguish between different types of reducing sugar by titration volumE",
+            "C": "It cannot analyse between different types of reducing sugar",
+            "D": "It cannot directly determine the concentration of non-reducing sugars",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What is the specific chemical utilized in the Crude Fiber Method?",
+        "choices": {
+            "A": "Aceton-Sodium Hydroxide",
+            "B": "Phenol - Sulfuric Acid",
+            "C": "Ethanol-Hydrochloric acid",
+            "D": "Sodium hydroxide-Sulfuric acid",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "What are the procedures involved in the Kjeldahl method for analyzing proteins?",
+        "choices": {
+            "A": "HCl and NaOH",
+            "B": "HCl and KOH",
+            "C": "H2SO4 and KOH",
+            "D": "H2SO4 and NaOH",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What chemical is associated with the Kjeldahl method?",
+        "choices": {
+            "A": "Ammonium sulfate",
+            "B": "Ammonium carbonate",
+            "C": "Ammonium chloride",
+            "D": "Ammonium nitrate",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Which statement regarding the use of UV-visible spectroscopy in protein analysis is not accurate?",
+        "choices": {
+            "A": "Calibration curve of absorbance (or turbidity) versus protein concentration needs to be created",
+            "B": "The absorbance (or turbidity) of the solution being analysed is measured at the same wavelength of calibration curve",
+            "C": "Protein concentration determined from calibration curve",
+            "D": "Peptide bonds, aromatic side-groups, basic group in protein type do not affect absorption or scattering of radiation",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "What is the basic idea behind the Turbimetric method used to measure protein content?",
+        "choices": {
+            "A": "Evaporation",
+            "B": "Adsorption",
+            "C": "Crystallization",
+            "D": "Precipitation",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Which statements are accurate? (multiple choices)",
+        "choices": {
+            "A": "UV-visible: The concentration of proteins can be determined by measuring the absorbance of ultraviolet-visible radiation",
+            "B": "Proteins cannot absorb IR naturally due to characteristic vibrations, suitable chemical solvent, and temperature, pressure conditions need to be set in rapid online analysis",
+            "C": "The protein content is determined by measuring the area under a peak in an NMR chemical shift spectra that corresponds to the protein fraction",
+            "D": "All of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "question": "What are the key characteristics to consider when analyzing fat/lipids? (multiple responses)",
+        "choices": {
+            "A": "Total lipid concentration",
+            "B": "Type of lipids present",
+            "C": "Physicochemical properties of lipids, E.g., crystallization, melting point, smoke point, rheology, density and color",
+            "D": "Structural organization of lipids within a food",
+            "E": ""
+        },
+        "correct_answer": [
+            "ALL"
+        ]
+    },
+    {
+        "question": "Are (i) solvent extraction, (ii) non-solvent extraction, and (iii) instrumental methods the primary conventional techniques used for lipid analysis?",
+        "choices": {
+            "A": "All are true",
+            "B": "All are false",
+            "C": "Only (i) and (iii) are true",
+            "D": "Only (i) and (ii) are true",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What is the underlying principle for choosing an appropriate solvent for lipid analysis? (multiple responses)",
+        "choices": {
+            "A": "Non-toxic and nonflammable",
+            "B": "Polarity of the lipids compared to the polarity of the solvent",
+            "C": "High boiling point solvent for easy evaporation",
+            "D": "Inexpensive price",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "question": "What is the specific chemical utilized in the Supercritical Fluid Extraction technique?",
+        "choices": {
+            "A": "NH3",
+            "B": "CO2",
+            "C": "H2O",
+            "D": "O2",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What is the definition of \"Cloud Point\"?",
+        "choices": {
+            "A": "The temperature at which a liquid begins in a solid",
+            "B": "The temperature at which a liquid begins in a gas",
+            "C": "The temperature at which crystallization begins in a liquid oil",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Do flame or graphite furnace atomizers belong to the components of...?",
+        "choices": {
+            "A": "Gas chromatography",
+            "B": "Atomic Absorption Spectrometer",
+            "C": "High-performance liquid chromatography (HPLC)",
+            "D": "Distillation column unit",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What is the typical technique employed to examine vitamin C levels in food?",
+        "choices": {
+            "A": "Redox titration",
+            "B": "AAS",
+            "C": "Precipitation",
+            "D": "Extraction",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What does the iodine value (IV) measure in the lipid analysis method known as the Iodine value method?",
+        "choices": {
+            "A": "Molecular weight of Iodine",
+            "B": "Concentrate of iodine compound",
+            "C": "Average degree of unsaturation of a lipid",
+            "D": "Iodine compound structure",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What is the significance of the Saponification Number?",
+        "choices": {
+            "A": "A measure of the average molecular weight of the triacylglycerols",
+            "B": "A measure of triacylglycerols C=C double bonds",
+            "C": "A measure of type of triacylglycerols",
+            "D": "A measure of concentration of triacylglycerols",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What does the study of EIA involve, in terms of examining the potential alterations to socio-economic and environmental attributes caused by a proposed action?",
+        "choices": {
+            "A": "Biophysical",
+            "B": "Geological",
+            "C": "Hydrological",
+            "D": "Potential",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "EIA deals with both the __ and __ consequences of the environment.",
+        "choices": {
+            "A": "Beneficial and adverse",
+            "B": "Social and benefit",
+            "C": "Adverse and economical",
+            "D": "None of above",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "It is clear that in order to recognize, evaluate, and forecast the environmental effects, ___ is necessary.",
+        "choices": {
+            "A": "Environmental attributes",
+            "B": "Environmental impact",
+            "C": "Complex system",
+            "D": "Variable parameter",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "EIA is incorporating systems for the purpose of monitoring and evaluating.",
+        "choices": {
+            "A": "Specification",
+            "B": "Auditing",
+            "C": "Reporting",
+            "D": "Concluding",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What are the characteristics of the environment?",
+        "choices": {
+            "A": "Detailed attributes",
+            "B": "Review level attributes",
+            "C": "Economic attributes",
+            "D": "Ecology attributes",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "question": "What do the baseline studies in EIA refer to?",
+        "choices": {
+            "A": "Collection of demographic data only",
+            "B": "Prediction of significant residual environmental impact",
+            "C": "Existing environmental settling of proposed development area",
+            "D": "Selection of best project option available",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "EIA might establish an official procedure that is utilized to forecast the environmental impacts of _________.",
+        "choices": {
+            "A": "Identify project",
+            "B": "Any development projects",
+            "C": "Reduced cost",
+            "D": "Impact of laws",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "EIA is assisting in achieving the objectives of safeguarding the environment and _______.",
+        "choices": {
+            "A": "Sustainable development",
+            "B": "Economic growth",
+            "C": "Involvement of public",
+            "D": "Proposed activities",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "EIA is offered to public and government agencies as a means to evaluate proposed activities.",
+        "choices": {
+            "A": "Beneficial",
+            "B": "Mitigation",
+            "C": "Involvement",
+            "D": "Adverse",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Why is EIA considered to be essential?",
+        "choices": {
+            "A": "Development is bad for the environment",
+            "B": "There is growing interest in sustainability",
+            "C": "Environmental impacts of developments are of public interest",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What is the main purpose of conducting an Environmental Impact Assessment?",
+        "choices": {
+            "A": "Mitigate existing environmental impacts of development",
+            "B": "Predict the size of impacts of developments",
+            "C": "Describe proposed developments",
+            "D": "Identify the environmental consequences of development in advance",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "What is the term used to describe the high-temperature burning of municipal solid waste?",
+        "choices": {
+            "A": "Incineration",
+            "B": "Composting",
+            "C": "Land filing",
+            "D": "Shredding",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What is the process of disposing of municipal solid waste by placing it in the ground?",
+        "choices": {
+            "A": "Incineration",
+            "B": "Composting",
+            "C": "Land filing",
+            "D": "Shredding",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What is the density of ash generated from municipal solid waste?",
+        "choices": {
+            "A": "100 kg/m3",
+            "B": "450 kg/m3",
+            "C": "700 kg/m3",
+            "D": "1000 kg/m3",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What is the liquid that flows through solid waste and removes suspended impurities?",
+        "choices": {
+            "A": "Leachate",
+            "B": "Sludge",
+            "C": "Distilled water",
+            "D": "Municipal waste",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What is the ideal temperature for incinerators?",
+        "choices": {
+            "A": "900-1100\u221eC",
+            "B": "100-110\u221eC",
+            "C": "90-110\u221eC",
+            "D": "100-11000\u221eC",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What method among the following is not used for treating biomedical waste?",
+        "choices": {
+            "A": "Incineration",
+            "B": "Chemical disinfecting",
+            "C": "Autoclaving",
+            "D": "Sieving",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "What can be utilized to create compost that can be sold from dry solid waste materials?",
+        "choices": {
+            "A": "Aerobic composting",
+            "B": "Vermicomposting",
+            "C": "Anaerobic digestion",
+            "D": "Anaerobic composting",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What is the correct information about waste disposal through land filling?",
+        "choices": {
+            "A": "Economical method",
+            "B": "Preferred in low lying areas",
+            "C": "Foul gases are not produced",
+            "D": "Separation of different types of waste not required",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What is the result of the waste generated in cotton mills?",
+        "choices": {
+            "A": "Municipal solid waste",
+            "B": "Non biodegradable waste",
+            "C": "Hazardous waste",
+            "D": "Non hazardous waste",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "How can we create a strategy for managing solid waste disposal?",
+        "choices": {
+            "A": "Integrated waste management plan",
+            "B": "Recycling of waste management plan",
+            "C": "Reducing of waste management plan",
+            "D": "Use of waste management plan",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Which option is a significant component of the natural emission of biogas in the ecosystem?",
+        "choices": {
+            "A": "Biogeochemical cycle",
+            "B": "Environment pollution",
+            "C": "Afforestation",
+            "D": "Deforestration",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Which organisms break down organic matter and transfer it to the environment?",
+        "choices": {
+            "A": "Methanogens",
+            "B": "Manganese",
+            "C": "Carbon dioxide",
+            "D": "Methane",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Which of the options is similar to the fertile top layer of soil when it comes to composting solid waste?",
+        "choices": {
+            "A": "Humus",
+            "B": "Bed rock",
+            "C": "Sub soil",
+            "D": "Weathered rock",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What are the potential risks of improperly handling battery waste?",
+        "choices": {
+            "A": "Texture",
+            "B": "Heavy metals",
+            "C": "Plastics",
+            "D": "Odor",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What causes Eutrophication among the factors listed?",
+        "choices": {
+            "A": "Excessive use of fertilizers",
+            "B": "Increase of plant nutrients",
+            "C": "Soil Pollution",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "question": "What is the definition of 'keystone' species within an ecosystem?",
+        "choices": {
+            "A": "The species whose elimination can seriously affect the ecosystem",
+            "B": "The species whose elimination can benefit the ecosystem",
+            "C": "The species whose elimination would not affect the ecosystem",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What are the two types of alcohol that are found in biofuels?",
+        "choices": {
+            "A": "Ethanol and methanol",
+            "B": "Ethanol and propanol",
+            "C": "Methanol and propanol",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Environmental studies refers to the branch of knowledge that specifically addresses:",
+        "choices": {
+            "A": "Design, study, and discovery of new materials",
+            "B": "The study of humanities, social, biological, and physical sciences",
+            "C": "Incorporate the information and physical sciences",
+            "D": "Approach about the natural world and the impact of humans on its integrity",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "What is the most accurate definition of risk?",
+        "choices": {
+            "A": "A physical injury",
+            "B": "The probability that an action will lead to an injury, damage or loss",
+            "C": "Behavior that is unhealthy",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What is the aim of a decision-making process for Risk Management?",
+        "choices": {
+            "A": "Reduce all risk",
+            "B": "Allow people to decide for themselves whether they will accept the risk",
+            "C": "Reduce the probability and magnitude of a negative outcome",
+            "D": "Create new laws",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What is the name of the health measure that evaluates the decrease in quality of life caused by sickness or disability?",
+        "choices": {
+            "A": "Morbidity",
+            "B": "Disability-adjusted life year",
+            "C": "Life expectancy",
+            "D": "Risk assessment",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "Which of these options is excluded from the risk assessment process?",
+        "choices": {
+            "A": "Exposure assessment",
+            "B": "Dose-response assessment",
+            "C": "Hazard identification",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "What is the term for expressing the probability of a particular event happening?",
+        "choices": {
+            "A": "Probability",
+            "B": "Possibility",
+            "C": "Risk assessment",
+            "D": "Risk analysis",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "How would you best define potable water?",
+        "choices": {
+            "A": "Freshwater that is suitable for drinking",
+            "B": "Freshwater that can be transported by pipes for distribution",
+            "C": "Freshwater that is safe for swimming",
+            "D": "All of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What is the estimated percentage of fresh water in the world?",
+        "choices": {
+            "A": "3",
+            "B": "9",
+            "C": "15",
+            "D": "18",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What is the definition of the vadose zone, which is located underground?",
+        "choices": {
+            "A": "A source of groundwater",
+            "B": "Confined above and below by impervious layers",
+            "C": "Unsaturated",
+            "D": "All of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What are the main causes of contamination in groundwater?",
+        "choices": {
+            "A": "Agriculture",
+            "B": "Underground storage tanks",
+            "C": "Landfills",
+            "D": "All of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What is the most accurate definition of sewage treatment that utilizes the physical settling of large particles for water purification?",
+        "choices": {
+            "A": "Primary sewage treatment",
+            "B": "Secondary sewage treatment",
+            "C": "Tertiary sewage treatment",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What are the potential effects of groundwater mining?",
+        "choices": {
+            "A": "Habitat loss",
+            "B": "Nutrient runoff",
+            "C": "Land subsidence",
+            "D": "All of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What enhancements can be made to the design of landfills?",
+        "choices": {
+            "A": "Larger size",
+            "B": "Reducing the amount of yard clippings allowed",
+            "C": "Leachate collection systems",
+            "D": "All of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What are the most frequently used waste disposal methods in Japan and Switzerland?",
+        "choices": {
+            "A": "Landfills and incineration",
+            "B": "Landfills and recycling",
+            "C": "Recycling and incineration",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What chemicals are typically found in incinerator ash?",
+        "choices": {
+            "A": "Heavy metals",
+            "B": "Organic compounds",
+            "C": "VOCs",
+            "D": "All of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What processes are employed in composting to convert organic matter into compost?",
+        "choices": {
+            "A": "Industrial",
+            "B": "Chemical",
+            "C": "Natural",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What would be the result of prohibiting the sale of disposable beverage containers?",
+        "choices": {
+            "A": "Reduce litter",
+            "B": "Save energy",
+            "C": "Save money",
+            "D": "All of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "There is a technological challenge associated with plastic recycling, which is that",
+        "choices": {
+            "A": "People do not like to recycle",
+            "B": "Different types of plastics cannot be recycled together",
+            "C": "The technology to recycle plastics does not exist",
+            "D": "All of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What does the term LD50 stand for?",
+        "choices": {
+            "A": "Last dose administered before a test organism is killed",
+            "B": "Lethal dose that will kill 50% of a test population",
+            "C": "Probability of killing a test organism 50% of the time",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What does the term threshold level refer to?",
+        "choices": {
+            "A": "Industrial exposure is expected to occur",
+            "B": "Industrial exposure is allowed by law",
+            "C": "Exposure to the chemical does not affect the test animals",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "DDT is a case in point of a",
+        "choices": {
+            "A": "Non-persistent chemical",
+            "B": "Persistent chemical",
+            "C": "Biodegradable chemical",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What industry in the United States generates the highest percentage of hazardous waste materials that are discharged into the environment?",
+        "choices": {
+            "A": "Chemical industry",
+            "B": "Paper industry",
+            "C": "Electric utilities",
+            "D": "Metal mining",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "What metal is found in approximately 2 kg (4 lbs) of each discarded computer?",
+        "choices": {
+            "A": "Cadmium",
+            "B": "Lead",
+            "C": "Mercury",
+            "D": "Arsenic",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What is accurate regarding confined aquifers?",
+        "choices": {
+            "A": "They contain surface water",
+            "B": "They are bordered by either an aquiclude or an aquitard",
+            "C": "They are made up of the shallowest part of the water table",
+            "D": "They are chiefly affected by transpiration",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What is a significant application of water within the stream?",
+        "choices": {
+            "A": "Producing hydroelectric power",
+            "B": "Dissolving industrial wastes",
+            "C": "Agricultural irrigation",
+            "D": "Domestic use",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What are some examples of municipal and industrial discharge pipes?",
+        "choices": {
+            "A": "Nonpoint sources of pollution",
+            "B": "Violations of the Clean Water Act",
+            "C": "Point sources of pollution",
+            "D": "Irrigation",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What does it mean when there are elevated levels of coliform bacteria in water samples?",
+        "choices": {
+            "A": "Contamination by human wastes",
+            "B": "Phosphorus contamination",
+            "C": "Decreased biological oxygen demand",
+            "D": "Hydrocarbon contamination",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Water use planning encompasses everything but which of the following concerns?",
+        "choices": {
+            "A": "Wastewater treatment",
+            "B": "Water diversion projects",
+            "C": "Storm sewer drainage",
+            "D": "Water use planning considers all of the above issues",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "What is the name for the stage in wastewater treatment plants where water is purified using biological techniques?",
+        "choices": {
+            "A": "Secondary sewage treatment",
+            "B": "Primary sewage treatment",
+            "C": "Wastewater reduction",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What is the impact of extracting groundwater in coastal regions?",
+        "choices": {
+            "A": "Increase the salinity of groundwater",
+            "B": "Decrease the toxicity of groundwater",
+            "C": "Decrease the salinity of groundwater",
+            "D": "Increase the water table",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What is the primary source of infectious waste material in water?",
+        "choices": {
+            "A": "Industrial waste",
+            "B": "Surface runoff",
+            "C": "Animal feces",
+            "D": "Agricultural pesticides",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "What statement about the Zoological Survey of India (ZSI) is correct?",
+        "choices": {
+            "A": "It was established in 1890 at the Royal Botanical Gardens, Calcutta",
+            "B": "It is the first crocodile conservation breeding center in Asia",
+            "C": "It was established in 1916 to do an organized survey of fauna in India",
+            "D": "It was established in 1982 for research in Wildlife Management",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "Which atmospheric layer is home to the ozone that absorbs UV (Ultra-Violet) light?",
+        "choices": {
+            "A": "Stratosphere",
+            "B": "Troposphere",
+            "C": "Mesosphere",
+            "D": "None of these",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What two countries make up approximately 57% of the global large dam population?",
+        "choices": {
+            "A": "India and China",
+            "B": "India and Brazil",
+            "C": "China and Brazil",
+            "D": "India and Japan",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What does the term Integrated Crop Management refer to?",
+        "choices": {
+            "A": "Use the traditional methods for growing crops",
+            "B": "Using alternatives to inorganic fertilizers and pesticides",
+            "C": "Increase production of crops",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "question": "What element is considered to be the primary source of global commercial energy usage?",
+        "choices": {
+            "A": "Coal",
+            "B": "Oil",
+            "C": "Natural gas",
+            "D": "Nuclear",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What human activity can cause a reduction in the amount of oxygen in the atmosphere?",
+        "choices": {
+            "A": "Deforestation",
+            "B": "Animal hunting",
+            "C": "Mining",
+            "D": "Both A and C",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "Which of the options listed below does not contribute to the loss of forests?",
+        "choices": {
+            "A": "Increasing use of wood",
+            "B": "Extinction of species",
+            "C": "Extensive use of fuel woods",
+            "D": "Mining and building dams",
+            "E": ""
+        },
+        "correct_answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "What causes Eutrophication among the factors listed below?",
+        "choices": {
+            "A": "Excessive use of fertilizers",
+            "B": "Increase of plant nutrients",
+            "C": "Air Pollution",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "question": "How many biodiversity hotspots exist globally?",
+        "choices": {
+            "A": "18",
+            "B": "28",
+            "C": "32",
+            "D": "36",
+            "E": ""
+        },
+        "correct_answer": [
+            "D"
+        ]
+    },
+    {
+        "question": "Who is most severely impacted by environmental destruction?",
+        "choices": {
+            "A": "Rich",
+            "B": "Moderate class",
+            "C": "Poor",
+            "D": "All of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    },
+    {
+        "question": "In what order is the 3R principle organized?",
+        "choices": {
+            "A": "Reduce, Reuse, Recycle",
+            "B": "Reuse, Reduce, Recycle",
+            "C": "Recycle, Reuse, Reduce",
+            "D": "None of the above",
+            "E": ""
+        },
+        "correct_answer": [
+            "A"
+        ]
+    },
+    {
+        "question": "What is utilized in the manufacturing of plastic?",
+        "choices": {
+            "A": "Mercury",
+            "B": "Lead",
+            "C": "Vinyl chloride",
+            "D": "None of these",
+            "E": ""
+        },
+        "correct_answer": [
+            "C"
+        ]
+    }
+]
